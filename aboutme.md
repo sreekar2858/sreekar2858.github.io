@@ -27,4 +27,4 @@ subtitle: What do I do?
 
 You can find more about my qualifications in my [CV Page](/cv/ "CV link")
 
-If you have similar interests, let's talk: <a href="mailto:sreekar2858@gmail.com?subject=Hey, I would like to talk to you about: ">sreekar2858@gmail.com</a>
+If you have similar interests, let's talk: <a href="mailto:sreekar2858@gmail.com">sreekar2858@gmail.com</a>
