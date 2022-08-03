@@ -13,8 +13,9 @@ subtitle: What do I do?
 
 <img style="float: right; padding: 5px 5px 5px 20px;" src="/assets/img/CV_Pic.jpg" width="250" />
 
-<br>
-<div style="text-align: justify"> My name is <b>Sajjala, Sreekar Reddy</b>, you can refer to me as sreekar. I am currently pursuing Master's degree in Computer-Aided Mechanical Engineering <a href="https://www.rwth-aachen.de/go/id/dfvw" target="_blank" title="CAME Website">CAME</a> at RWTH Aachen University with a specialization in Conception of Machines. I finished my Bachelor's degree in Mechanical Engineering at BML Munjal University.</div>
+<p style="text-align: justify; font-size:30px">Hey There!</p>
+
+<div style="text-align: justify"> My name is <b>Sajjala, Sreekar Reddy</b>, you can refer to me as <i>sreekar</i>. I am currently pursuing Master's degree in Computer-Aided Mechanical Engineering <a href="https://www.rwth-aachen.de/go/id/dfvw" target="_blank" title="CAME Website">CAME</a> at RWTH Aachen University with a specialization in Conception of Machines. I finished my Bachelor's degree in Mechanical Engineering at BML Munjal University.</div>
 
 <span class="br"></span>
 
@@ -26,4 +27,4 @@ subtitle: What do I do?
 
 You can find more about my qualifications in my [CV Page](/cv/ "CV link")
 
-If you have similar interests, let's talk: <a href="mailto:sreekar2858@gmail.com">Contact Me</a>
+If you have similar interests, let's talk: <a href="mailto:sreekar2858@gmail.com?subject=Hey, I would like to talk to you about: ">sreekar2858@gmail.com</a>
