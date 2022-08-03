@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Who am I? What do I do?
 ---
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQE7hnEMLL5Bxg/profile-displayphoto-shrink_800_800/0/1640517535164?e=1665014400&v=beta&t=owS-nAw3QekyfE5MBOKAHwPxNrpk2WkIKQu_uQT1gYk" alt="Sreekar's Picture" style="float: right;" width="250"/>
+<img src="/assets/img/CV_Pic.jpg" alt="Sreekar's Picture" style="float: right;" width="250"/>
 
 My name is **Sajjala, Sreekar *(sree)* Reddy**. I am currently pursuing Master's degree in Computer-Aided Mechanical Engineering ([CAME](https://www.rwth-aachen.de/go/id/dfvw "RWTH Page")) at RWTH Aachen University with a specialization in Conception of Machines. I finished my Bachelor's degree in Mechanical Engineering at BML Munjal University.\\
 \\
