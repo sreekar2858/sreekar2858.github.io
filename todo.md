@@ -1,0 +1,3 @@
+- home pade sub heading size
+- aboutme justify text
+- padding on all pages
