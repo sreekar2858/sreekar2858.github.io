@@ -3316,11 +3316,6 @@ tbody.collapse.show {
     padding-bottom: .5rem
 }
 
-.navbar-collapse {
-    flex-basis: 100%;
-    align-items: center
-}
-
 .navbar-toggler {
     padding: .25rem .75rem;
     font-size: 1.25rem;
@@ -3377,9 +3372,6 @@ tbody.collapse.show {
     .navbar-expand-sm>.container-fluid {
         flex-wrap: nowrap
     }
-    .navbar-expand-sm .navbar-collapse {
-        display: flex!important
-    }
     .navbar-expand-sm .navbar-toggler {
         display: none
     }
@@ -3416,9 +3408,6 @@ tbody.collapse.show {
     .navbar-expand-md>.container,
     .navbar-expand-md>.container-fluid {
         flex-wrap: nowrap
-    }
-    .navbar-expand-md .navbar-collapse {
-        display: flex!important
     }
     .navbar-expand-md .navbar-toggler {
         display: none
@@ -3457,9 +3446,6 @@ tbody.collapse.show {
     .navbar-expand-lg>.container-fluid {
         flex-wrap: nowrap
     }
-    .navbar-expand-lg .navbar-collapse {
-        display: flex!important
-    }
     .navbar-expand-lg .navbar-toggler {
         display: none
     }
@@ -3496,9 +3482,6 @@ tbody.collapse.show {
     .navbar-expand-xl>.container,
     .navbar-expand-xl>.container-fluid {
         flex-wrap: nowrap
-    }
-    .navbar-expand-xl .navbar-collapse {
-        display: flex!important
     }
     .navbar-expand-xl .navbar-toggler {
         display: none
@@ -3538,10 +3521,6 @@ tbody.collapse.show {
 .navbar-expand>.container,
 .navbar-expand>.container-fluid {
     flex-wrap: nowrap
-}
-
-.navbar-expand .navbar-collapse {
-    display: flex!important
 }
 
 .navbar-expand .navbar-toggler {

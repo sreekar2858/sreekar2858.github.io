@@ -17,7 +17,7 @@ subtitle:
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Creative CV</title>
+    <!-- <title>Creative CV</title> -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href="/assets/css/aos.css?ver=1.1.0" rel="stylesheet">
@@ -53,14 +53,16 @@ subtitle:
   <div class="container">
     <div class="card" data-aos="fade-up" data-aos-offset="10">
       <div class="row">
-        <div class="col-lg-6 col-md-12">
-          <div class="card-body">
-            <div class="h4 mt-0 title">About</div>
-            <p>Hello! I am Sreekar; a process-driven, and articulate Master’s student in Computer Aided Mechanical Engineering 
-            with expertise in Finite Element Method, Fluid Dynamics, Automotive Engineering, Multi-body Dynamics, Molecular Mechanics,and Aerodynamics. <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
+        <div class="col-lg-12 col-md-0">
+          <div class="card-body col-mb-0">
+            <div class="h4 mt-0 title h4 mb-0">About</div>
+            <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of machine elements.<br>
+            - I have strong theoretical knowledge in structural, fluid and thermo-dynamics.<br> 
+            - I am experienced backend developer for FEM/ CFD solvers using open-source software.<br>
+            - I focuse to grow insight into Machine Learning and Artificial Intelligent models (CNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn. <a href="/aboutme/" target="_blank"><strong>More</strong></a></div>
           </div>
         </div>
-        <div class="col-lg-6 col-md-12">
+        <div class="col-lg-10 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">Contact</div>
             <div class="row mt-3">
@@ -422,10 +424,9 @@ subtitle:
   </div>
 </div>
 </div>
-    </div>
     <script src="/assets/js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
     <script src="/assets/js/core/popper.min.js?ver=1.1.0"></script>
-    <script src="/assets/js/core/bootstrap.min.js?ver=1.1.0"></script>
+    <!-- <script src="/assets/js/core/bootstrap.min.js?ver=1.1.0"></script> -->
     <script src="/assets/js/now-ui-kit.js?ver=1.1.0"></script>
     <script src="/assets/js/aos.js?ver=1.1.0"></script>
     <script src="/assets/scripts/main.js?ver=1.1.0"></script>
