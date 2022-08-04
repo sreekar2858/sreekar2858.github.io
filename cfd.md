@@ -1,16 +1,12 @@
 ---
 layout: page
-title: CFD
-subtitle: Why you'd want to go on a date with me
+title: Computational Fluid Dynamics (CFD)
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<p style="text-align: center; font-size:30px">Hey There!</p>
+<img src="/assets/img/under_construction.png" alt="Sky" style="display: block; margin-right: auto; margin-left: auto;">
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<div style="text-align: justify; padding: 0px 0px 0px -50px"> Sorry, the page you are looking for is not built completely or deployed yet. &emsp; Hopefully, It will be up and running in no time.&emsp;<br><br></div>
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p style="text-align: justify; font-size:30px">Check out other pages!! </p>

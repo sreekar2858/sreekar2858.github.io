@@ -11,7 +11,7 @@ subtitle: What do I do?
         }
     </style>
 
-<img style="float: right; padding: 5px 5px 5px 20px;" src="/assets/img/CV_Pic.jpg" width="250" />
+<img style="float: right; padding: 5px 5px 5px 20px;" src="/assets/img/sreekar_bw.jpg" height="450" />
 
 <p style="text-align: justify; font-size:30px">Hey There!</p>
 

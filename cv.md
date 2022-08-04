@@ -376,7 +376,7 @@ subtitle:
 
 <div class="section" id="reference">
   <div class="container cc-reference">
-    <div class="h4 mb-4 text-center title">References</div>
+    <div class="h4 mb-3 text-center title">References</div>
     <div class="card" data-aos="zoom-in">
       <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -427,7 +427,7 @@ subtitle:
     <script src="/assets/js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
     <script src="/assets/js/core/popper.min.js?ver=1.1.0"></script>
     <!-- <script src="/assets/js/core/bootstrap.min.js?ver=1.1.0"></script> -->
-    <script src="/assets/js/now-ui-kit.js?ver=1.1.0"></script>
+    <!-- <script src="/assets/js/now-ui-kit.js?ver=1.1.0"></script> -->
     <script src="/assets/js/aos.js?ver=1.1.0"></script>
     <script src="/assets/scripts/main.js?ver=1.1.0"></script>
   </body>

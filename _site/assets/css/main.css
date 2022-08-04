@@ -2399,12 +2399,12 @@ body {
         background-color: rgba(255, 255, 255, 0.2); }
     .dropdown-menu.dropdown-warning .dropdown-divider {
       background-color: rgba(255, 255, 255, 0.2); }
-  .dropdown .dropdown-menu {
+  /* .dropdown .dropdown-menu {
     transform: translate3d(0, -25px, 0);
     visibility: hidden;
     display: block;
     opacity: 0;
-    filter: alpha(opacity=0); }
+    filter: alpha(opacity=0); } */
   .dropdown.show .dropdown-menu, .dropdown-menu.open {
     opacity: 1;
     filter: alpha(opacity=100);
@@ -3116,7 +3116,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   overflow: hidden;
   width: 100%;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
   .card .card-body {
     min-height: 190px; }
@@ -4867,6 +4867,8 @@ Created using IcoMoon - icomoon.io
   margin: 0; }
 
 .cc-reference .carousel-indicators li {
+  border-top: 0;
+  border-bottom: 0;
   background: #a5a3a3; }
 
 .cc-reference .carousel-indicators .active {
