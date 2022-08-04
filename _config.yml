@@ -23,10 +23,10 @@ navbar-links:
   CV: "cv"
   Projects:
     - CFD: "cfd"
+    - FSI: "fsi"
     - FEM: "fem"
   Blog: "blog"
   About Me: "aboutme"
-  
 
 ################
 # --- Logo --- #

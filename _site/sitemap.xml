@@ -17,6 +17,9 @@
 <lastmod>2020-02-26T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2022-08-04-post1/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/aboutme/</loc>
 </url>
 <url>
@@ -32,9 +35,15 @@
 <loc>http://localhost:4000/fem/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fsi/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
