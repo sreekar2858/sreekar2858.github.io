@@ -4,7 +4,7 @@ title: Development of an intelligent simulation-based model for design evaluatio
 subtitle: Masters - Mini-Thesis
 cover-img: /assets/img/minithesis_bg.png
 thumbnail-img: /assets/img/minithesis_tuning.png
-share-img: /assets/img/minithesis_tuning.png
+# share-img: /assets/img/minithesis_tuning.png
 tags: [CFD, AM, ANN, AI, OpenFOAM]
 ---
 
