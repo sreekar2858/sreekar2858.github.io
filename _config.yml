@@ -22,9 +22,10 @@ author: Sajjala, Sreekar Reddy
 navbar-links:
   CV: "cv"
   Projects:
+    - FEM: "fem"
     - CFD: "cfd"
     - FSI: "fsi"
-    - FEM: "fem"
+    - AI: "ai"
   Blog: "blog"
   About Me: "aboutme"
 

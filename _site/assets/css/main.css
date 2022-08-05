@@ -1820,7 +1820,7 @@ textarea.form-control {
     border-radius: 0;
     box-shadow: none;
     background: rgba(222, 222, 222, 0.8);
-    margin-top: 14px; }
+    margin-top: 0px; }
     .progress-container .progress .progress-bar {
       box-shadow: none;
       background-color: #888; }
@@ -1837,13 +1837,13 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-value,
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
-  .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+  /* .progress-container.progress-primary .progress {
+    background: rgba(55, 140, 63, 0.4); } */
   .progress-container.progress-primary .progress-bar {
-    background: #378C3F; }
+    background: #023859; }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
-    color: #378C3F; }
+    color: #023859; }
   .progress-container.progress-info .progress {
     background: rgba(44, 168, 255, 0.3); }
   .progress-container.progress-info .progress-bar {
@@ -2006,9 +2006,9 @@ small {
   font-size: 60%; }
 
 a {
-  color: #378C3F; }
+  color: #023859; }
   a:hover, a:focus {
-    color: #378C3F; }
+    color: #023859; }
 
 h1, .h1 {
   font-size: 3.5em;
@@ -2039,9 +2039,10 @@ h4, .h4 {
     margin-top: -10px; }
 
 h5, .h5 {
-  font-size: 1.57em;
+  font-size: 1.2em;
   line-height: 1.4em;
-  margin-bottom: 15px; }
+  margin-bottom: 0px;
+}
 
 h6, .h6 {
   font-size: 1em;
@@ -2072,6 +2073,8 @@ p {
 .category {
   text-transform: uppercase;
   font-weight: 700;
+  margin-bottom: 0;
+  /* text-align: center; */
   color: #9A9A9A; }
 
 .text-primary {
@@ -2285,7 +2288,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #023859 !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -4691,7 +4694,7 @@ Created using IcoMoon - icomoon.io
   transform-origin: 100% 0; }
 
 .gallery figure.cc-effect .h4 {
-  margin-top: 25%;
+  margin-top: 15%;
   transition: transform 0.35s;
   opacity: 0; }
   @media (max-width: 480px) {
@@ -4872,7 +4875,7 @@ Created using IcoMoon - icomoon.io
   background: #a5a3a3; }
 
 .cc-reference .carousel-indicators .active {
-  background-color: #378C3F; }
+  background-color: #023859; }
 
 .cc-reference .carousel-inner {
   box-shadow: none; }
