@@ -463,6 +463,14 @@ subtitle:
                       <p style="text-align:center">Bachelors Course Project</p>
                     </figcaption>
                   </figure></a></div>
+              <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-05-fem_knee_prosthetic"> -->
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
+                  <figure class="cc-effect"><img src="/assets/img/mp_turning.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Study of Heat Emission and Energy Consumption during Turning of Al Alloy</div>
+                      <p style="text-align:center">Bachelors Course Project</p>
+                    </figcaption>
+                  </figure></a></div>
             </div>
             <div class="col-md-6">
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-04-fem_inc_form"> -->
@@ -478,6 +486,21 @@ subtitle:
                     <figcaption>
                       <div class="h4">CFD approach to MC-DC casting of Aluminum Alloy 7xxx - Ansys</div>
                       <p style="text-align:center">Bachelors Core Project</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
+                  <figure class="cc-effect"><img src="/assets/img/bt_solidification.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Macro Segregation during Solidification - OpenFOAM</div>
+                      <p style="text-align:center">Bachelors Project</p>
+                    </figcaption>
+                  </figure></a></div>
+              <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-05-fem_knee_prosthetic"> -->
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
+                  <figure class="cc-effect"><img src="/assets/img/bt_micress.png" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Dendridic Growth of AlZn alloy - Micress</div>
+                      <p style="text-align:center">Bachelors Project</p>
                     </figcaption>
                   </figure></a></div>
             </div>

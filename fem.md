@@ -10,5 +10,3 @@ subtitle:
 <img src="/assets/img/under_construction.png" alt="Sky" style="display: block; margin-right: auto; margin-left: auto;">
 
 <p style="text-align: justify; font-size:30px">Check out other pages!! </p>
-
-<a href="/2022-08-04-post1/" target="_blank" title="Certificate link">Test Page</a>
