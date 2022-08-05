@@ -76,7 +76,7 @@ $(document).ready(function() {
 
     // Activate Carousel
     $('.carousel').carousel({
-        interval: 8000
+        interval: 80000
     });
 
     $('.date-picker').each(function() {

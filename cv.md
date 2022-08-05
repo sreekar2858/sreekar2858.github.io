@@ -41,8 +41,8 @@ subtitle:
       <!-- <div class="page-header-image" data-parallax="true" style="background-image: url('/images/cc-bg-1.jpg')"></div> -->
       <div class="container">
         <div class="content-center">
-          <div class="cc-profile-image"><a href="#"><img src="/assets/img/CV_Pic.jpg" alt="Image"/></a></div>
-          <span class="h2_c">Sajjala, Sreekar Reddy</span>
+          <div class="cc-profile-image"><a href="#"><img src="/assets/img/CV_Pic.jpg" alt="Image"/></a>
+          <span class="h2_c">Sajjala, Sreekar Reddy</span></div>
           <p class="category text-white">CAE Engineer</p>
         </div>
       </div>
@@ -77,10 +77,10 @@ subtitle:
               <div class="col-sm-2"><strong class="text-uppercase">Address:</strong></div>
               <div class="col-sm-8">Mattschö-Moll-Weg 6, Aachen, NRW, Germany.</div>
             </div>
-            <!-- <div class="row mt-1">
-              <div class="col-sm-4"><strong class="text-uppercase">Languages:</strong></div>
-              <div class="col-sm-8">English, German, Telugu</div>
-            </div> -->
+            <div class="row mt-1">
+              <div class="col-sm-2"><strong class="text-uppercase">LinkedIn:</strong></div>
+              <div class="col-sm-8"><a href="https://www.linkedin.com/in/sreekar07036910b/" target=_blank title="LinkedIn ref"> https://www.linkedin.com/in/sreekar07036910b/ </a></div>
+            </div>
           </div>
         </div>
       </div>
@@ -473,7 +473,7 @@ subtitle:
                       <p style="text-align:center">Bachelors Course Project</p>
                     </figcaption>
                   </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
                   <figure class="cc-effect"><img src="/assets/img/aa_dc_casting_ansys.jpg" alt="Image"/>
                     <figcaption>
                       <div class="h4">CFD approach to MC-DC casting of Aluminum Alloy 7xxx - Ansys</div>
@@ -493,7 +493,7 @@ subtitle:
     <div class="h4 mb-3 text-center title">References</div>
     <div class="card" data-aos="zoom-in">
       <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
-        <ol class="carousel-indicators">
+        <ol class="carousel-indicators" style="margin-bottom: 0px;">
           <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
           <li data-target="#cc-Indicators" data-slide-to="1"></li>
           <li data-target="#cc-Indicators" data-slide-to="2"></li>
@@ -501,7 +501,7 @@ subtitle:
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="row">
-              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="/assets/img/dummy-man.jpg" alt="Image"/>
+              <div class="col-lg-2 col-md-3 cc-reference-header" style = "text-align: center"><img src="/assets/img/dummy-man.jpg" alt="Image"/>
                 <div class="h5 pt-2" style = "text-align: center">Dr. Prasada Rao AK</div>
                 <p class="category" style = "text-align: center">Professor</p>
               </div>
@@ -513,7 +513,7 @@ subtitle:
           </div>
           <div class="carousel-item">
             <div class="row">
-              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="/assets/img/dummy-man.jpg" alt="Image"/>
+              <div class="col-lg-2 col-md-3 cc-reference-header" style = "text-align: center"><img src="/assets/img/dummy-man.jpg" alt="Image"/>
                 <div class="h5 pt-2" style = "text-align: center">Gandham Phanikumar</div>
                 <p class="category" style = "text-align: center">Professor</p>
               </div>
@@ -525,14 +525,13 @@ subtitle:
           </div>
           <div class="carousel-item">
             <div class="row">
-              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="/assets/img/dummy-man.jpg" alt="Image"/>
+              <div class="col-lg-2 col-md-3 cc-reference-header" style = "text-align: center"><img src="/assets/img/dummy-man.jpg" alt="Image"/>
                 <div class="h5 pt-2" style = "text-align: center">N Ch Kaushik</div>
                 <p class="category" style = "text-align: center">Associate Professor</p>
               </div>
               <div class="col-lg-10 col-md-9">
                 <p> Sreekar's perseverance and tenacity in completing a task assigned never cease to impress me. His keen insight into the learning process and innovative thinking made him work the task in most effective way. He is an intelligent, hardworking student with excellent observation skills. He had worked all tasks assigned to him in the most optimum way with his creative cognition techniques. He has maintained a consistently high level of academic performances right from high school.<br>
-                Sreekar also maintained a very good rapport with his instructors and fellow students. He is very confident, optimistic and never waits for opportunities but creates them. Sreekar is a very participant in the class discussion as well as in co-curricular activities. His project presentations and reports always impressed me with his communication skills and good command over the subject. I found him extremely motivated to do the graduate studies. He has a rare blend of top writing and interpersonal skills.
-</p>
+                Sreekar also maintained a very good rapport with his instructors and fellow students. He is very confident, optimistic and never waits for opportunities but creates them. Sreekar is a very participant in the class discussion as well as in co-curricular activities. His project presentations and reports always impressed me with his communication skills and good command over the subject. I found him extremely motivated to do the graduate studies. He has a rare blend of top writing and interpersonal skills.</p>
               </div>
             </div>
           </div>
