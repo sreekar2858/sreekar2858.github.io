@@ -15,7 +15,7 @@ subtitle: What do I do?
 
 <p style="text-align: justify; font-size:30px">Hey There!</p>
 
-<div style="text-align: justify; padding: 0px 0px 0px -50px"> My name is <b>Sajjala, Sreekar Reddy</b>, you can refer to me as <i>sreekar</i>. I am currently pursuing Master's degree in Computer-Aided Mechanical Engineering <a href="https://www.rwth-aachen.de/go/id/dfvw" target="_blank" title="CAME Website">CAME</a> at RWTH Aachen University with a specialization in Conception of Machines. I finished my Bachelor's degree in Mechanical Engineering at BML Munjal University.</div>
+<div style="text-align: justify; padding: 0px 0px 0px -50px"> My name is <b>Sajjala, Sreekar Reddy</b> <i>(sreekar)</i>. I am currently pursuing Master's degree in Computer-Aided Mechanical Engineering <a href="https://www.rwth-aachen.de/go/id/dfvw" target="_blank" title="CAME Website">CAME</a> at RWTH Aachen University with a specialization in Conception of Machines. I finished my Bachelor's degree in Mechanical Engineering at BML Munjal University.</div>
 
 <span class="br"></span>
 
