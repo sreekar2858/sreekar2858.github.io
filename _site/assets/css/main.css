@@ -2075,7 +2075,8 @@ p {
   font-weight: 700;
   margin-bottom: 0;
   /* text-align: center; */
-  color: #9A9A9A; }
+  /* color: #9A9A9A;  */
+}
 
 .text-primary {
   color: #378C3F !important; }
@@ -4843,7 +4844,6 @@ Created using IcoMoon - icomoon.io
 /* Experience Style */
 .cc-experience .cc-experience-header {
   padding-top: 40px;
-  padding-right: 0;
   text-align: center;
   color: #fff;
   text-transform: uppercase; }

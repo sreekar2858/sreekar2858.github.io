@@ -2075,7 +2075,8 @@ p {
   font-weight: 700;
   margin-bottom: 0;
   /* text-align: center; */
-  color: #9A9A9A; }
+  /* color: #9A9A9A;  */
+}
 
 .text-primary {
   color: #378C3F !important; }

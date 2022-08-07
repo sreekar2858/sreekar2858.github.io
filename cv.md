@@ -43,7 +43,7 @@ subtitle:
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="/assets/img/CV_Pic.jpg" alt="Image"/></a>
           <span class="h2_c">Sajjala, Sreekar Reddy</span></div>
-          <p class="category text-white">CAE Engineer</p>
+          <p class="category text-white"></p>
         </div>
       </div>
     </div>
@@ -58,8 +58,8 @@ subtitle:
             <div class="h4 mt-0 title h4 mb-0">About</div>
             <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of machine elements.<br>
             - I have strong theoretical knowledge in structural, fluid and thermo-dynamics.<br> 
-            - I am experienced backend developer for FEM/ CFD solvers using open-source software.<br>
-            - I focuse to grow insight into Machine Learning and Artificial Intelligent models (CNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn. <a href="/aboutme/"><strong>More</strong></a></div>
+            - I am an experienced backend developer for FEM/ CFD solvers using open-source software.<br>
+            - I focus to grow insights into Machine Learning and Artificial Intelligence models (CNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn. <a href="/aboutme/"><strong>More</strong></a></div>
           </div>
         </div>
         <div class="col-lg-10 col-md-12">
@@ -102,8 +102,8 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Mini-Thesis</div>
-            <p><strong>Title: Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</strong><br>
+            <div class="h5"><strong>Mini-Thesis</strong></div>
+            <p><i>Title: Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</i><br>
             • Run CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
             • Evaluate vital parameters; heat transfer, head loss, structural integrity, etc.<br>
             • Create an AI regression model to fit the simulation data.<br>
@@ -123,10 +123,10 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Wissenschaftliche Hilfskraft</div>
+            <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
-            - Created/ optimized VBA code for examination software<br>
-            - Created a python GUI software using PyQt5.</p>
+            • Created/ optimized VBA code for examination software<br>
+            • Created a python GUI software using PyQt5.</p>
           </div>
         </div>
       </div>
@@ -142,7 +142,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Wissenschaftliche Hilfskraft</div>
+            <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
             • Optimized/ cleaned-up MATLAB code to generate aerogel geometry.<br>
             • Generated C++ code for better performance <br>
@@ -162,7 +162,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Wissenschaftliche Hilfskraft</div>
+            <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
             • IT Support (Windows, Linux, mac-OS).</p>
           </div>
@@ -180,10 +180,10 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Wissenschaftliche Hilfskraft</div>
-            <p>Tasks:<br>
-            - Created/ optimized VBA code for examination software<br>
-            - Created a python GUI software using PyQt5.</p>
+            <div class="h5"><strong>CAE Engineer</strong></div>
+            <p>
+            • Completed 18 research projects related to CAD, FEM, CFD, and FSI.<br>
+            • Worked on designing/ simulations using - (Siemens NX, Ansys, ABAQUS, MATLAB, and COMSOL.)</p>
           </div>
         </div>
       </div>
@@ -199,8 +199,8 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Research Intern/ Bachelor Thesis</div>
-            <p><strong>Title: Computational simulation of conventional and ultrasonic techniques in Direct-Chill Casting</strong><br>
+            <div class="h5"><strong>Research Intern/ Bachelor Thesis</strong></div>
+            <p><i>Title: Computational simulation of conventional and ultrasonic techniques in Direct-Chill Casting</i><br>
             • Developed a custom C++ solver in OpenFOAM-v1712.<br>
             • Investigated thermal, momentum, and phase-fraction evolution at different casting speeds to identify optimum for best casting quality.<br>
             • Employed Ansys Mechanical APDL to study creep and displacement during casting process.</p>
@@ -219,7 +219,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Research Intern</div>
+            <div class="h5"><strong>Research Intern</strong></div>
             <p>• Designed a mechanical fastener for a flight vehicle to withstand transient and random vibration forces.<br>
             • Streamlined designing process with a MATLAB program to create a fastener based on vital parameters.<br>
             • Conducted FEM simulation in Ansys to investigate stresses and normal forces acting on the flight vehicle frame.<br>
@@ -245,15 +245,15 @@ subtitle:
           <div class="card-body">
             <div class="h5">Computer-Aided Mechanical Engineering</div>
             <p class="category">RWTH Aachen University</p>
-            <p> - Advanced Software Engineering<br>
-                - Advanced Finite Element Methods<br>
-                - Nonlinear Structural Mechanics<br>
-                - Artificial Neural Networks in Structural Mechanics<br>
-                - Practical Introduction to FEM<br>
-                - Computational Fluid Dynamics<br>
-                - Multi-body Dynamics<br>
-                - Parallel Computating in Computational Mechanics<br>
-                - Fast Iterative Solvers</p>
+            <p> • Advanced Software Engineering<br>
+                • Advanced Finite Element Methods<br>
+                • Nonlinear Structural Mechanics<br>
+                • Artificial Neural Networks in Structural Mechanics<br>
+                • Practical Introduction to FEM<br>
+                • Computational Fluid Dynamics<br>
+                • Multi-body Dynamics<br>
+                • Parallel Computating in Computational Mechanics<br>
+                • Fast Iterative Solvers</p>
           </div>
         </div>
       </div>
@@ -270,12 +270,12 @@ subtitle:
           <div class="card-body">
             <div class="h5">Mechanical Engineering</div>
             <p class="category">BML Munjal University</p>
-            <p>- Fluid/Thermo-dynamics<br>
-               - Computer-Aided Design (CAD)<br>
-               - Computational Fluid Dynamics (CFD)<br>
-               - Bio-Mechanics<br>
-               - Machine Design<br>
-               - Manufacturing Process</p>
+            <p>• Fluid/Thermo-dynamics<br>
+               • Computer-Aided Design (CAD)<br>
+               • Computational Fluid Dynamics (CFD)<br>
+               • Bio-Mechanics<br>
+               • Machine Design<br>
+               • Manufacturing Process</p>
           </div>
         </div>
       </div>
@@ -298,8 +298,8 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Patient-specific CFD simulation of aerodynamics for nasal pathology: a combined computational and experimental study</div>
-            <p class="category">Authors: </p>
+            <div class="h5"><strong>Patient-specific CFD simulation of aerodynamics for nasal pathology: a combined computational and experimental study</strong></div>
+            <p class="category"></p>
             <p> Nazym S. Sagandykova, Ildar R. Fakhradiyev, Sreekar Reddy Sajjala, Saule A. Taukeleva, Dinara E. Shemetova, Timur M. Saliev, Shynar B. Tanabayeva & Yong Zhao<br>
             DOI: <a href="https://doi.org/10.1080/21681163.2020.1858968" target="_blank" title="Topic Page">https://doi.org/10.1080/21681163.2020.1858968</a></p>
           </div>
@@ -316,8 +316,8 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">CFD simulation of direct chill casting process of magnesium alloy billets</div>
-            <p class="category">Authors</p>
+            <div class="h5"><strong>CFD simulation of direct chill casting process of magnesium alloy billets</strong></div>
+            <p class="category"></p>
             <p>Lee Wei Loon, Sajjala Sreekar Reddy, A.K.Prasada Rao<br>
             DOI: <a href="https://doi.org/10.1016/j.jmapro.2019.07.033" target="_blank" title="Topic Page">https://doi.org/10.1016/j.jmapro.2019.07.033</a></p>
           </div>
