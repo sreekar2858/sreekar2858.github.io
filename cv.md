@@ -529,8 +529,8 @@ subtitle:
                 <p class="category" style = "text-align: center">Professor</p>
               </div>
               <div class="col-lg-10 col-md-9">
-                <p> Sreekar is an insightful individual, who strives to achieve any goal that he sets his mind to. He combined his skill with optimum hard work, thus being highly successful in his academics as well as co-curricular activities. He had worked all tasks assigned to him in the most efficient way with his creative cognition techniques.<br>
-                In addition to this, he has always demonstrated a high energy level, along with willingness to accept responsibility. He always believes in himself and strives for the solution in a very focused and resolute fashion. One of the most pleasing aspects of him is his commitment and interpersonal skills necessary to handle conflicting and challenging situations. He is an ebullient student and determinant to accomplish the projects.</p>
+                <p> "Sreekar is an insightful individual, who strives to achieve any goal that he sets his mind to. He combined his skill with optimum hard work, thus being highly successful in his academics as well as co-curricular activities. He had worked all tasks assigned to him in the most efficient way with his creative cognition techniques.<br>
+                In addition to this, he has always demonstrated a high energy level, along with willingness to accept responsibility. He always believes in himself and strives for the solution in a very focused and resolute fashion. One of the most pleasing aspects of him is his commitment and interpersonal skills necessary to handle conflicting and challenging situations. He is an ebullient student and determinant to accomplish the projects."</p>
               </div>
             </div>
           </div>
@@ -541,8 +541,8 @@ subtitle:
                 <p class="category" style = "text-align: center">Professor</p>
               </div>
               <div class="col-lg-10 col-md-9">
-                <p> Sreekar has developed strong skills in programming, particularly using OpenFOAM. He was able to translate his previous knowledge on Ansys Fluent to prepare a custom solver in OpenFOAM to pursue his Bachelors thesis under my supervision. He has understood the enthalpy-porosity formulation to perform simulation of casting solidification using his solver.<br>
-                I find a good motivation behind his every work of his and he delivered promising results for his thesis. The drive to learn and apply new concepts is quite impressive while he was working on the project. Being closely associated with Sreekar as his mentor, I find him as a keen and sincere student. During my interaction, I have found him to have good funcdamentals and the best of analytical skills.</p>
+                <p> "Sreekar has developed strong skills in programming, particularly using OpenFOAM. He was able to translate his previous knowledge on Ansys Fluent to prepare a custom solver in OpenFOAM to pursue his Bachelors thesis under my supervision. He has understood the enthalpy-porosity formulation to perform simulation of casting solidification using his solver.<br>
+                I find a good motivation behind his every work of his and he delivered promising results for his thesis. The drive to learn and apply new concepts is quite impressive while he was working on the project. Being closely associated with Sreekar as his mentor, I find him as a keen and sincere student. During my interaction, I have found him to have good funcdamentals and the best of analytical skills."</p>
               </div>
             </div>
           </div>
@@ -553,8 +553,8 @@ subtitle:
                 <p class="category" style = "text-align: center">Associate Professor</p>
               </div>
               <div class="col-lg-10 col-md-9">
-                <p> Sreekar's perseverance and tenacity in completing a task assigned never cease to impress me. His keen insight into the learning process and innovative thinking made him work the task in most effective way. He is an intelligent, hardworking student with excellent observation skills. He had worked all tasks assigned to him in the most optimum way with his creative cognition techniques. He has maintained a consistently high level of academic performances right from high school.<br>
-                Sreekar also maintained a very good rapport with his instructors and fellow students. He is very confident, optimistic and never waits for opportunities but creates them. Sreekar is a very participant in the class discussion as well as in co-curricular activities. His project presentations and reports always impressed me with his communication skills and good command over the subject. I found him extremely motivated to do the graduate studies. He has a rare blend of top writing and interpersonal skills.</p>
+                <p> <q>Sreekar's perseverance and tenacity in completing a task assigned never cease to impress me. His keen insight into the learning process and innovative thinking made him work the task in most effective way. He is an intelligent, hardworking student with excellent observation skills. He had worked all tasks assigned to him in the most optimum way with his creative cognition techniques. He has maintained a consistently high level of academic performances right from high school.<br>
+                Sreekar also maintained a very good rapport with his instructors and fellow students. He is very confident, optimistic and never waits for opportunities but creates them. Sreekar is a very participant in the class discussion as well as in co-curricular activities. His project presentations and reports always impressed me with his communication skills and good command over the subject. I found him extremely motivated to do the graduate studies. He has a rare blend of top writing and interpersonal skills.</q></p>
               </div>
             </div>
           </div>
