@@ -415,7 +415,7 @@ subtitle:
           </div>
         </div>
         <!--  -->
-        <p style="text-align:center; font-size:130%; font-family:verdana">Programming Skills</p>
+        <p style="text-align:center; font-size:130%; font-family:verdana"><strong>Programming Skills</strong></p>
         <div class="row">
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">C/ C++</span>
@@ -459,7 +459,7 @@ subtitle:
   <div class="container">
     <div class="row">
       <div class="col-md-6 ml-auto mr-auto">
-        <div class="h4 text-center mb-4 title">Project Highlights</div>
+        <div class="h4 text-center mb-2 title">Project Highlights</div>
         <!-- <div class="nav-align-center">
           <ul class="nav nav-pills nav-pills-primary" role="tablist">
             <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
