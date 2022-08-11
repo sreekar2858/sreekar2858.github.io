@@ -548,6 +548,13 @@ footer .footer-custom-content {
   font-weight: 600;
 }
 
+@media (max-width: 767px){
+  p{
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
+  }
+}
+
 @media (min-width: 768px) {
   .post-preview .post-title {
     font-size: 1.75rem;
