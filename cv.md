@@ -102,7 +102,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong>Mini-Thesis</strong></div>
+            <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
             <p><i>Title: Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</i><br>
             • Run CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
             • Evaluate vital parameters; heat transfer, head loss, structural integrity, etc.<br>
