@@ -8,7 +8,23 @@ thumbnail-img: /assets/img/minithesis_tuning.png
 tags: [CFD, AM, ANN, AI, OpenFOAM]
 ---
 
-It is not practicable to analyse numerous support structure patterns, so a computational investigation using Computational Fluid Dynamics (CFD) solver must be employed to study the thermal and flow characteristics. It is also vital to balance the simulation runtime and accuracy. 
-The workflow for this project uses a feedback loop. A CFD/ CHT simulation is run using OpenFOAM to generate a simulation dataset for a selected number of support shapes in patterns. An AI model is trained to fit the dataset with chosen inputs and outputs. Validate the ANN model with test data. Once the ANN model is trained to acceptable validation accuracy, it can also be employed to study new input data to achieve the ideal heat transfer coefficient and flow properties.
-This process eliminates the CFD simulation from the loop which can be tedious. Validation accuracy and loss are used as a metric to evaluate if the ANN model is over-or-under fitting the dataset. This project’s scope is to successfully implement an ANN model into the development cycle, and research on novel shapes can be significantly reduced with similar results as computational simulation.
+<h3>Note</h3>
+Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks!
 
+<h4>Abstract:</h4>
+<p>
+In this thesis an Artificial Neural Network (ANN) model has been submitted to intelligently evaluate cooling channel with the help of simulation database. A case of rectangular cooling duct is considered with different cross-section support structures in a staggered position to lead conjugate heat transfer. A multi-region steady-state turbulent simulation has been carried out in OpenFOAM with chtMultiRegionSimpleFOAM solver for various support structures and reynolds numbers. The results are interpolated and saved at coarse grid locations of both domains (fluid, solid) to reduce the amount of data stored; which create a database of mesh (point cloud) and parameters linked to the location.<br>
+
+The simulation database was used to train a neural network model. Graph Neural Networks (GNN) was chosen for its ability to relate the mesh points and also capture the geometric features. The trained GNN model, developed in python is used to predict the temperature distribution in the cooling channel for untrained geometry and validate the accuracy with the actual temperature distribution from simulation results.<br>
+</p>
+
+<h4>Introduction:</h4>
+<p>
+Technological advancements enabled Additive Manufacturing (AM) to be promising and potentially supersede conventional manufacturing in mass production. Development from the past years in accuracy and efficiency of AM allows it to have relatively less impact on the environment and produces zero waste delivering high-quality components. Unlike traditional manufacturing, AM enables the fabrication of lighter, stronger, and more complex parts with less hassle. Laser Powder Bed Fusion (LPBF) is one of the most popular AM processes which is used to fuse the metal powder to form the desired shape. LPBF operate on laser energy to melt (pure-or-alloyed) metal particles; with size ranging from approx. 20 to 60 microns in successive layers.<br>
+Due to the nature of AM technique, it is possible to construct hollow/ infill structures tailoring the mechanical characteristics of the part relevant to the application. AM needs temporary support structures that hold certain shapes (such as overhangs) in place until the printing is done. In some cases, it is not feasible to remove these support structures. It is possible to exploit these support structures in high-or-low temperature applications to cool/ heat the component by flowing fluid through the geometry allowing conjugate heat transfer (CHT). The cavity that fluid passes through with the support structures can be referred to as cooling channels. Several computational/ experimental studies must be carried out to maximize the effect of heat transfer with little to no effects on structural and flow characteristics.<br>
+To study the effects of support structures on structural, thermal, and fluid characteristics Artificial Neural Networks (ANN) can be utilized. ANN has several neurons in layers that are trained based on the given input and output. A trained model is validated against test data to compute the validation accuracy and loss of the prediction. 
+</p>
+
+<h4>Methodology:</h4><br>
+
+<img src="/assets/img/minithesis_methodology_1.jpg" alt="Methodology" width="100%">

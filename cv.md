@@ -102,12 +102,12 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
-            <p><i>Title: Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</i><br>
+            <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Research Project</a></strong></div>
+            <p>Tasks:<br>
             • Run CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
             • Evaluate vital parameters; heat transfer, head loss, structural integrity, etc.<br>
             • Create an AI regression model to fit the simulation data.<br>
-            • Optimize the cooling channel for the desired configuration.</p>
+            • Optimize the cooling channel design for the desired configuration.</p>
           </div>
         </div>
       </div>
@@ -164,7 +164,9 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
-            • IT Support (Windows, Linux, mac-OS).</p>
+            • IT & Technical support.<br>
+            • Diagnosing and repairing network connections in MacOS.<br> 
+            • Installing and configuring hardware and software.</p>
           </div>
         </div>
       </div>
@@ -181,7 +183,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>CAE Engineer</strong></div>
-            <p>
+            <p>Tasks:<br>
             • Completed 18 research projects related to CAD, FEM, CFD, and FSI.<br>
             • Worked on designing/ simulations using - (Siemens NX, Ansys, ABAQUS, MATLAB, and COMSOL.)</p>
           </div>
@@ -199,8 +201,8 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong>Research Intern/ Bachelor Thesis</strong></div>
-            <p><i>Title: Computational simulation of conventional and ultrasonic techniques in Direct-Chill Casting</i><br>
+            <div class="h5"><strong>Research Intern</strong></div>
+            <p>Tasks:<br>
             • Developed a custom C++ solver in OpenFOAM-v1712.<br>
             • Investigated thermal, momentum, and phase-fraction evolution at different casting speeds to identify optimum for best casting quality.<br>
             • Employed Ansys Mechanical APDL to study creep and displacement during casting process.</p>
@@ -220,7 +222,8 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Research Intern</strong></div>
-            <p>• Designed a mechanical fastener for a flight vehicle to withstand transient and random vibration forces.<br>
+            <p>Tasks:<br>
+            • Designed a mechanical fastener for a flight vehicle to withstand transient and random vibration forces.<br>
             • Streamlined designing process with a MATLAB program to create a fastener based on vital parameters.<br>
             • Conducted FEM simulation in Ansys to investigate stresses and normal forces acting on the flight vehicle frame.<br>
             • Validated results with experimental and analytical calculations.</p>
@@ -243,9 +246,11 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Computer-Aided Mechanical Engineering</div>
+            <div class="h4" style="margin-top: 10px;">Computer-Aided Mechanical Engineering</div>
             <p class="category">RWTH Aachen University</p>
-            <p> • Advanced Software Engineering<br>
+            <p> <Strong>Mini-Thesis: </Strong> <i>Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</i><br>
+                <Strong>Courses:</Strong><br>
+                • Advanced Software Engineering (JAVA-OOPS)<br>
                 • Advanced Finite Element Methods<br>
                 • Nonlinear Structural Mechanics<br>
                 • Artificial Neural Networks in Structural Mechanics<br>
@@ -262,20 +267,26 @@ subtitle:
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
-            <div class="h5">Bachelor's Degree</div>
+            <div class="h5">Bachelor of Technology</div>
             <p style="text-align:center">2015 - 2019</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Mechanical Engineering</div>
+            <div class="h4" style="margin-top: 10px;">Mechanical Engineering</div>
             <p class="category">BML Munjal University</p>
-            <p>• Fluid/Thermo-dynamics<br>
+            <p><Strong>Bachelor's Thesis: </Strong> <i>Computational simulation of convectional and ultrasonic techniques in Direct-chill casting of Aluminum alloys.</i><br>
+               <Strong>Mini-project: </Strong> <i>Study of flow and alloy segregation during solidification of Aluminum alloys.</i><br>
+               <Strong>Courses:</Strong><br>
+               • Fluid/Thermo-dynamics<br>
                • Computer-Aided Design (CAD)<br>
                • Computational Fluid Dynamics (CFD)<br>
+               • Mechanical Vibrations<br>
+               • Robotics<br>
                • Bio-Mechanics<br>
                • Machine Design<br>
-               • Manufacturing Process</p>
+               • Manufacturing Process (conventional & micro-machining)<br>
+               • Nanoscience: From synthesis to few applications</p>
           </div>
         </div>
       </div>
@@ -338,14 +349,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Ansys</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div><span class="progress-value">85</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">ABAQUS</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75</span>
               </div>
             </div>
           </div>
@@ -354,14 +365,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Star-CCM+</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">MATLAB</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70</span>
               </div>
             </div>
           </div>
@@ -370,14 +381,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">COMSOL</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">OpenFOAM</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70</span>
               </div>
             </div>
           </div>
@@ -386,14 +397,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">ANSA</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div><span class="progress-value">65</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Deal.ii</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70</span>
               </div>
             </div>
           </div>
@@ -402,14 +413,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Siemens NX</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div><span class="progress-value">95</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Pro-E</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80</span>
               </div>
             </div>
           </div>
@@ -420,14 +431,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">C/ C++</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div><span class="progress-value">85</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Python</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div><span class="progress-value">90</span>
               </div>
             </div>
           </div>
@@ -437,14 +448,14 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Java</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80</span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Git</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div><span class="progress-value"></span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div><span class="progress-value">95</span>
               </div>
             </div>
           </div>
@@ -476,7 +487,7 @@ subtitle:
             <div class="col-md-6">
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-04-fem_lumbar"> -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/biomech_spine1.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/fem/biomech_spine1.jpg" alt="Image"/>
                     <figcaption>
                       <div class="h4">Stress in lumbar spine under specific loads - ABAQUS</div>
                       <p style="text-align:center">Bachelors Course Project</p>
@@ -484,7 +495,7 @@ subtitle:
                   </figure></a></div>
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-04-01-ai_impact"> -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/cie_outliers.png" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/ai/cie_outliers.png" alt="Image"/>
                     <figcaption>
                       <div class="h4">DNN & RNN to Predict Impact Location on Aircraft Nose</div>
                       <p style="text-align:center">Masters Course Project</p>
@@ -492,7 +503,7 @@ subtitle:
                   </figure></a></div>
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-05-fem_knee_prosthetic"> -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/md_knee_prosthetic.png" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/fem/md_knee_prosthetic.png" alt="Image"/>
                     <figcaption>
                       <div class="h4">Stress Analysis in Knee Prosthetic - Ansys</div>
                       <p style="text-align:center">Bachelors Course Project</p>
@@ -500,7 +511,7 @@ subtitle:
                   </figure></a></div>
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-05-fem_knee_prosthetic"> -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/mp_turning.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/fem/mp_turning.jpg" alt="Image"/>
                     <figcaption>
                       <div class="h4">Study of Heat Emission and Energy Consumption during Turning of Al Alloy</div>
                       <p style="text-align:center">Bachelors Course Project</p>
@@ -510,21 +521,21 @@ subtitle:
             <div class="col-md-6">
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-04-fem_inc_form"> -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/mp_inc_form.png" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/fem/mp_inc_form.png" alt="Image"/>
                     <figcaption>
                       <div class="h4">Formability and Residual Stresses during Incremental Forming - Siemens NX</div>
                       <p style="text-align:center">Bachelors Course Project</p>
                     </figcaption>
                   </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/aa_dc_casting_ansys.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/cfd/aa_dc_casting_ansys.jpg" alt="Image"/>
                     <figcaption>
                       <div class="h4">CFD approach to MC-DC casting of Aluminum Alloy 7xxx - Ansys</div>
                       <p style="text-align:center">Bachelors Core Project</p>
                     </figcaption>
                   </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/bt_solidification.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/cfd/bt_solidification.jpg" alt="Image"/>
                     <figcaption>
                       <div class="h4">Macro Segregation during Solidification - OpenFOAM</div>
                       <p style="text-align:center">Bachelors Project</p>
@@ -532,7 +543,7 @@ subtitle:
                   </figure></a></div>
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-05-fem_knee_prosthetic"> -->
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/404">
-                  <figure class="cc-effect"><img src="/assets/img/bt_micress.png" alt="Image"/>
+                  <figure class="cc-effect"><img src="/assets/img/cfd/bt_micress.png" alt="Image"/>
                     <figcaption>
                       <div class="h4">Dendridic Growth of AlZn alloy - Micress</div>
                       <p style="text-align:center">Bachelors Project</p>

@@ -15,15 +15,7 @@
         <title>Stress Analysis in Knee Prosthetic - Ansys</title>
         <description>
           
-          Hey There!
-
- Sorry, the page you are looking for is not built completely or deployed yet. &amp;emsp; Hopefully, It will be up and running in no time.&amp;emsp;
-
-
-Check out other pages!! 
-
-Test Page
-
+          Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Introduction: Metallic implants are commonly used in the orthopedic field. Despite the large number of metallic medical devices in use today, they...
         </description>
         <pubDate>Fri, 05 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-05-fem_knee_prosthetic/</link>
@@ -34,15 +26,7 @@ Test Page
         <title>Stress in lumbar spine under specific loads - ABAQUS</title>
         <description>
           
-          Hey There!
-
- Sorry, the page you are looking for is not built completely or deployed yet. &amp;emsp; Hopefully, It will be up and running in no time.&amp;emsp;
-
-
-Check out other pages!! 
-
-Test Page
-
+          Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract: The objective of this work is to develop a method to simulate the biomechanics of the lumbar spine. A process is...
         </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-04-fem_lumbar/</link>
@@ -50,18 +34,10 @@ Test Page
       </item>
     
       <item>
-        <title>Formability and Residual Stresses during Incremental Forming - Siemens NX</title>
+        <title>Formability and Residual Stresses during Incremental Forming</title>
         <description>
           
-          Hey There!
-
- Sorry, the page you are looking for is not built completely or deployed yet. &amp;emsp; Hopefully, It will be up and running in no time.&amp;emsp;
-
-
-Check out other pages!! 
-
-Test Page
-
+          Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Introduction Unlike one-step simulation, in which only the final part shape is solved, incremental forming simulation allows the accurate modeling of sheet...
         </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-04-fem_inc_form/</link>
@@ -88,32 +64,30 @@ Test Page
       </item>
     
       <item>
-        <title>FSI Post - 1</title>
+        <title>CFD approach to MC-DC casting of Aluminum Alloy 7xxx - Ansys</title>
         <description>
           
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+          Note
+Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks!
+
+
+
+Introduction
+
+
+
+
         </description>
         <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020-02-26-fsi-post1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-fsi-post1/</guid>
-      </item>
-    
-      <item>
-        <title>CFD Post - 1</title>
-        <description>
-          
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
-        </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020-02-26-cfd-post1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-cfd-post1/</guid>
+        <link>http://localhost:4000/2020-02-26-cfd-mcdc/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-26-cfd-mcdc/</guid>
       </item>
     
       <item>
         <title>Development of an intelligent simulation-based model for design evaluation of cooling channels for L-PBF</title>
         <description>
           Masters - Mini-Thesis - 
-          It is not practicable to analyse numerous support structure patterns, so a computational investigation using Computational Fluid Dynamics (CFD) solver must be employed to study the thermal and flow characteristics. It is also vital to balance the simulation runtime and accuracy. The workflow for this project uses a feedback loop....
+          Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract: In this thesis an Artificial Neural Network (ANN) model has been submitted to intelligently evaluate cooling channel with the help of...
         </description>
         <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020-02-26-master-minithesis/</link>
@@ -151,6 +125,46 @@ Test Page
         <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2020-02-20-master-annsm/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-annsm/</guid>
+      </item>
+    
+      <item>
+        <title>Macro Segregation during Solidification - OpenFOAM</title>
+        <description>
+          
+          Note
+Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks!
+
+
+
+Introduction
+
+
+
+
+        </description>
+        <pubDate>Thu, 20 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2019-06-20-cfd-macroseg/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-20-cfd-macroseg/</guid>
+      </item>
+    
+      <item>
+        <title>Dendridic Growth of AlZn alloy - Micress</title>
+        <description>
+          
+          Note
+Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks!
+
+
+
+Introduction
+
+
+
+
+        </description>
+        <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2019-05-10-cfd-dendr_AlZn/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-05-10-cfd-dendr_AlZn/</guid>
       </item>
     
   </channel>

@@ -1840,10 +1840,10 @@ textarea.form-control {
   /* .progress-container.progress-primary .progress {
     background: rgba(55, 140, 63, 0.4); } */
   .progress-container.progress-primary .progress-bar {
-    background: #023859; }
+    background: #3b4d61; }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
-    color: #023859; }
+    color: #3b4d61; }
   .progress-container.progress-info .progress {
     background: rgba(44, 168, 255, 0.3); }
   .progress-container.progress-info .progress-bar {
@@ -2006,9 +2006,9 @@ small {
   font-size: 60%; }
 
 a {
-  color: #023859; }
+  color: #3b4d61; }
   a:hover, a:focus {
-    color: #023859; }
+    color: #3b4d61; }
 
 h1, .h1 {
   font-size: 3.5em;
@@ -2289,7 +2289,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #023859 !important; }
+  background-color: #3b4d61 !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -4875,7 +4875,7 @@ Created using IcoMoon - icomoon.io
   background: #a5a3a3; }
 
 .cc-reference .carousel-indicators .active {
-  background-color: #023859; }
+  background-color: #3b4d61; }
 
 .cc-reference .carousel-inner {
   box-shadow: none; }

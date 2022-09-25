@@ -1,3 +1,2 @@
-- home pade sub heading size
-- aboutme justify text
-- padding on all pages
+- CV-Education-courses-2 columns
+- title position in FEM posts 
