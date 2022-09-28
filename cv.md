@@ -497,7 +497,7 @@ subtitle:
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-04-01-ai_impact">
                   <figure class="cc-effect"><img src="/assets/img/ai/cie_outliers.png" alt="Image"/>
                     <figcaption>
-                      <div class="h4">DNN & RNN to Predict Impact Location on Aircraft Nose</div>
+                      <div class="h4">DNN & ResNN to Predict Impact Location on Aircraft Nose</div>
                       <p style="text-align:center">Masters Course Project</p>
                     </figcaption>
                   </figure></a></div>
