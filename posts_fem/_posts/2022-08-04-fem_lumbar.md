@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stress in lumbar spine under specific loads - ABAQUS
-subtitle: 
+subtitle: Bachelor's Project
 cover-img: /assets/img/fem/fem_1_bg.jpg
 thumbnail-img: /assets/img/fem/biomech_spine1.jpg
 tags: [FEM, ABAQUS]

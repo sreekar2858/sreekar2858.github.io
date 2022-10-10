@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stress Analysis in Knee Prosthetic - Ansys
-subtitle:
+subtitle: Bachelor's Project
 cover-img: /assets/img/fem/fem_1_bg.jpg
 thumbnail-img: /assets/img/fem/md_knee_prosthetic.png
 tags: [FEM, Ansys]

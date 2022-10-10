@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Formability and Residual Stresses during Incremental Forming
-subtitle:
+subtitle: Bachelor's Project
 cover-img: /assets/img/fem/fem_1_bg.jpg
 thumbnail-img: /assets/img/fem/mp_inc_form.png
 tags: [FEM]

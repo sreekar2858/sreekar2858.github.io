@@ -1,2 +1,1 @@
-- CV-Education-courses-2 columns
 - title position in FEM posts 

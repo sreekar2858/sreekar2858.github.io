@@ -248,17 +248,24 @@ subtitle:
           <div class="card-body">
             <div class="h4" style="margin-top: 10px;">Computer-Aided Mechanical Engineering</div>
             <p class="category">RWTH Aachen University</p>
-            <p> <Strong>Mini-Thesis: </Strong> <i>Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</i><br>
+            <span> <Strong>Mini-Thesis: </Strong> <i>Development of an intelligent and simulation-based model for design evaluation of cooling channels for L-PBF</i><br>
                 <Strong>Courses:</Strong><br>
-                • Advanced Software Engineering (JAVA-OOPS)<br>
-                • Advanced Finite Element Methods<br>
-                • Nonlinear Structural Mechanics<br>
-                • Artificial Neural Networks in Structural Mechanics<br>
-                • Practical Introduction to FEM<br>
-                • Computational Fluid Dynamics<br>
-                • Multi-body Dynamics<br>
-                • Parallel Computating in Computational Mechanics<br>
-                • Fast Iterative Solvers</p>
+                <div class="row">
+                  <div class = "col-sm">
+                  • Advanced Software Engineering (JAVA-OOPS)<br>
+                  • Advanced Finite Element Methods<br>
+                  • Nonlinear Structural Mechanics<br>
+                  • Artificial Neural Networks in Structural Mechanics<br>
+                  • Practical Introduction to FEM<br>
+                  </div>
+                  <div class = "col-sm">
+                  • Computational Fluid Dynamics<br>
+                  • Multi-body Dynamics<br>
+                  • Parallel Computating in Computational Mechanics<br>
+                  • Fast Iterative Solvers
+                  </div>
+                </div>
+            </span>
           </div>
         </div>
       </div>
@@ -275,18 +282,25 @@ subtitle:
           <div class="card-body">
             <div class="h4" style="margin-top: 10px;">Mechanical Engineering</div>
             <p class="category">BML Munjal University</p>
-            <p><Strong>Bachelor's Thesis: </Strong> <i>Computational simulation of convectional and ultrasonic techniques in Direct-chill casting of Aluminum alloys.</i><br>
+            <span><Strong>Bachelor's Thesis: </Strong> <i>Computational simulation of convectional and ultrasonic techniques in Direct-chill casting of Aluminum alloys.</i><br>
                <Strong>Mini-project: </Strong> <i>Study of flow and alloy segregation during solidification of Aluminum alloys.</i><br>
                <Strong>Courses:</Strong><br>
-               • Fluid/Thermo-dynamics<br>
-               • Computer-Aided Design (CAD)<br>
-               • Computational Fluid Dynamics (CFD)<br>
-               • Mechanical Vibrations<br>
-               • Robotics<br>
-               • Bio-Mechanics<br>
-               • Machine Design<br>
-               • Manufacturing Process (conventional & micro-machining)<br>
-               • Nanoscience: From synthesis to few applications</p>
+               <div class="row">
+                  <div class = "col-sm">
+                  • Fluid/Thermo-dynamics<br>
+                  • Computer-Aided Design (CAD)<br>
+                  • Computational Fluid Dynamics (CFD)<br>
+                  • Mechanical Vibrations<br>
+                  • Robotics<br>
+                  </div>
+                  <div class = "col-sm">
+                  • Bio-Mechanics<br>
+                  • Machine Design<br>
+                  • Manufacturing Process (conventional & micro-machining)<br>
+                  • Nanoscience: From synthesis to few applications
+                  </div>
+                </div>
+               </span>
           </div>
         </div>
       </div>
@@ -497,7 +511,7 @@ subtitle:
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-04-01-ai_impact">
                   <figure class="cc-effect"><img src="/assets/img/ai/cie_outliers.png" alt="Image"/>
                     <figcaption>
-                      <div class="h4">DNN & ResNN to Predict Impact Location on Aircraft Nose</div>
+                      <div class="h4">DNN & ResNet to Predict Impact Location on Aircraft Nose</div>
                       <p style="text-align:center">Masters Course Project</p>
                     </figcaption>
                   </figure></a></div>

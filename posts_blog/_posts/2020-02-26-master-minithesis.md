@@ -2,8 +2,8 @@
 layout: post
 title: Development of an intelligent simulation-based model for design evaluation of cooling channels for L-PBF
 subtitle: Masters - Mini-Thesis
-cover-img: /assets/img/minithesis_bg.png
-thumbnail-img: /assets/img/minithesis_tuning.png
+cover-img: /assets/img/cfd/minithesis_bg.png
+thumbnail-img: /assets/img/cfd/minithesis_tuning.png
 # share-img: /assets/img/minithesis_tuning.png
 tags: [CFD, AM, ANN, AI, OpenFOAM]
 ---
