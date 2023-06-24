@@ -104,12 +104,12 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Internship [Voluntary]</strong></div>
             <p>Tasks:<br>
-            •Performed mechanical/ thermal benchmark simulations for CFRP parts according to ASTM D3039/D3039M and battery assembly in the storage unit using Optistruct and StarCCM+.<br>
+            • Performed mechanical/ thermal benchmark simulations for CFRP parts according to ASTM D3039/D3039M and battery assembly in the storage unit using <strong>Optistruct</strong> and <strong>StarCCM+</strong>.<br>
             • Performed modal simulations on battery pack level to analyze and improve the eigenfrequencies.<br>
             • Performed explicit dynamics simulations using Radioss on the individual cell under compression and bending loads.<br>
             • Conducted mechanical simulations on battery pack under crash loads to examine stresses and strains using Optistruct.<br>
             • Investigated thermal and thermo-mechanical strains and stresses due to Thermal loads using numerical simulation in StarCCM+ & Optistruct.<br>
-            • Realized fatigue and lifetime evaluations of CFRP and thermosetting plastics.<br>
+            • Realized fatigue and lifetime evaluations of <strong>CFRP</strong> and thermosetting plastics.<br>
             • Develop an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
             • I am part of the Mechanical Integration team inside the Battery team and am involved in the day-to-day design evolution of the battery pack.<br>
             • Familiarity with DO-160G and UN38.3.4</p>
@@ -132,7 +132,7 @@ subtitle:
             <p>Tasks:<br>
             • Understand the theoretical implementation of adjoint-based topology optimization methods.<br>
             • Investigate existing topology optimization techniques using continuous and discrete adjoint methods in open-source software.<br>
-            • Create a workflow to perform passively coupled topology optimization for Conjugate Heat Transfer (CHT) cases using DAFoam.<br>
+            • Create a workflow to perform passively coupled topology optimization for Conjugate Heat Transfer (CHT) cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
             • Automate the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.</p>
           </div>
         </div>
@@ -151,10 +151,12 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
             <p>Tasks:<br>
+            • Developed simulation-based NN model for evaluating cooling channel designs in additively manufactured (AM) components.<br>
             • Run CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
-            • Evaluate vital parameters; heat transfer, head loss, structural integrity, etc.<br>
-            • Create a GNN regression model to fit the simulation data.<br>
-            • Optimize the cooling channel design for the desired configuration.</p>
+            • Evaluated vital parameters for several input configurations; heat transfer, head loss, structural integrity, etc.<br>
+            • Create a Graph Neural Networks (GNN) regression model to fit the simulation data.<br>
+            • Optimize the cooling channel design for the desired configuration.<br>
+            • Reduced development time by eliminating tedious case setups and long simulation run times, benefiting industries reliant on heat conduction and convection.</p>
           </div>
         </div>
       </div>
@@ -426,7 +428,7 @@ subtitle:
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Star-CCM+</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75</span>
               </div>
             </div>
           </div>
