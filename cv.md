@@ -96,17 +96,64 @@ subtitle:
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
+            <div class="h5"> Volocopter - Bruchsal, Germany</div>
+            <p style="text-align:center">Feb 2022 - Aug 2023</p>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5"><strong>Internship [Voluntary]</strong></div>
+            <p>Tasks:<br>
+            •Performed mechanical/ thermal benchmark simulations for CFRP parts according to ASTM D3039/D3039M and battery assembly in the storage unit using Optistruct and StarCCM+.<br>
+            • Performed modal simulations on battery pack level to analyze and improve the eigenfrequencies.<br>
+            • Performed explicit dynamics simulations using Radioss on the individual cell under compression and bending loads.<br>
+            • Conducted mechanical simulations on battery pack under crash loads to examine stresses and strains using Optistruct.<br>
+            • Investigated thermal and thermo-mechanical strains and stresses due to Thermal loads using numerical simulation in StarCCM+ & Optistruct.<br>
+            • Realized fatigue and lifetime evaluations of CFRP and thermosetting plastics.<br>
+            • Develop an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
+            • I am part of the Mechanical Integration team inside the Battery team and am involved in the day-to-day design evolution of the battery pack.<br>
+            • Familiarity with DO-160G and UN38.3.4</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <div class="h5"> Digital Additive Production, RWTH</div>
+            <p style="text-align:center">Feb 2023 - Present</p>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
+            <p>Tasks:<br>
+            • Understand the theoretical implementation of adjoint-based topology optimization methods.<br>
+            • Investigate existing topology optimization techniques using continuous and discrete adjoint methods in open-source software.<br>
+            • Create a workflow to perform passively coupled topology optimization for Conjugate Heat Transfer (CHT) cases using DAFoam.<br>
+            • Automate the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
             <div class="h5"> Digital Additive Production, RWTH</div>
             <p style="text-align:center">Jun 2022 - Present</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Research Project</a></strong></div>
+            <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
             <p>Tasks:<br>
             • Run CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
             • Evaluate vital parameters; heat transfer, head loss, structural integrity, etc.<br>
-            • Create an AI regression model to fit the simulation data.<br>
+            • Create a GNN regression model to fit the simulation data.<br>
             • Optimize the cooling channel design for the desired configuration.</p>
           </div>
         </div>
@@ -118,7 +165,7 @@ subtitle:
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
             <div class="h5"> TME, RWTH</div>
-            <p style="text-align:center">Feb 2022 - Present</p>
+            <p style="text-align:center">Feb 2022 - Jan 2023</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">

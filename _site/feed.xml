@@ -5,7 +5,7 @@
     <title>Home</title>
     
     
-    <description>This website is a virtual proof that I'm awesome.</description>
+    <description>This website is a virtual proof that I&apos;m awesome.</description>
     
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
       <item>
         <title>Stress Analysis in Knee Prosthetic - Ansys</title>
         <description>
-          Bachelor's Project - 
+          Bachelor&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Introduction: Metallic implants are commonly used in the orthopedic field. Despite the large number of metallic medical devices in use today, they...
         </description>
         <pubDate>Fri, 05 Aug 2022 00:00:00 +0200</pubDate>
@@ -25,7 +25,7 @@
       <item>
         <title>Stress in lumbar spine under specific loads - ABAQUS</title>
         <description>
-          Bachelor's Project - 
+          Bachelor&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract: The objective of this work is to develop a method to simulate the biomechanics of the lumbar spine. A process is...
         </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
@@ -36,7 +36,7 @@
       <item>
         <title>Formability and Residual Stresses during Incremental Forming</title>
         <description>
-          Bachelor's Project - 
+          Bachelor&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Introduction Unlike one-step simulation, in which only the final part shape is solved, incremental forming simulation allows the accurate modeling of sheet...
         </description>
         <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
@@ -70,7 +70,7 @@ Introduction
 
 
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-26-cfd-mcdc/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-26-cfd-mcdc/</guid>
       </item>
@@ -81,7 +81,7 @@ Introduction
           Masters - Mini-Thesis - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract: In this thesis an Artificial Neural Network (ANN) model has been submitted to intelligently evaluate cooling channel with the help of...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-26-master-minithesis/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-26-master-minithesis/</guid>
       </item>
@@ -92,7 +92,7 @@ Introduction
           Each post also has a subtitle - 
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
         </description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-20-master-molmec/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-molmec/</guid>
       </item>
@@ -103,7 +103,7 @@ Introduction
           Each post also has a subtitle - 
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
         </description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-20-master-cie/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-cie/</guid>
       </item>
@@ -114,7 +114,7 @@ Introduction
           Each post also has a subtitle - 
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
         </description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-20-master-annsm/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-annsm/</guid>
       </item>
