@@ -75,7 +75,7 @@ subtitle:
             </div>
             <div class="row mt-1">
               <div class="col-sm-2"><strong class="text-uppercase">Address:</strong></div>
-              <div class="col-sm-8">Mattschö-Moll-Weg 6, Aachen, NRW, Germany.</div>
+              <div class="col-sm-8">NRW, Germany.</div>
             </div>
             <div class="row mt-1">
               <div class="col-sm-2"><strong class="text-uppercase">LinkedIn:</strong></div>
