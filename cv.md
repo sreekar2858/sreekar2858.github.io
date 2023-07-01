@@ -110,9 +110,9 @@ subtitle:
             • Conducted mechanical simulations on battery pack under crash loads to examine stresses and strains using Optistruct.<br>
             • Investigated thermal and thermo-mechanical strains and stresses due to Thermal loads using numerical simulation in StarCCM+ & Optistruct.<br>
             • Realized fatigue and lifetime evaluations of <strong>CFRP</strong> and thermosetting plastics.<br>
-            • Develop an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
-            • I am part of the Mechanical Integration team inside the Battery team and am involved in the day-to-day design evolution of the battery pack.<br>
-            • Familiarity with DO-160G and UN38.3.4</p>
+            • Developed an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
+            • I was part of the Mechanical Integration team inside the Battery team and am involved in the day-to-day design evolution of the battery pack.<br>
+            • Familiarized with DO-160G and UN38.3.4</p>
           </div>
         </div>
       </div>
@@ -130,10 +130,10 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
-            • Understand the theoretical implementation of adjoint-based topology optimization methods.<br>
-            • Investigate existing topology optimization techniques using continuous and discrete adjoint methods in open-source software.<br>
-            • Create a workflow to perform passively coupled topology optimization for Conjugate Heat Transfer (CHT) cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
-            • Automate the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.</p>
+            • Understood the theoretical implementation of adjoint-based topology optimization methods.<br>
+            • Investigated existing topology optimization techniques using continuous and discrete adjoint methods in open-source software.<br>
+            • Created a workflow to perform passively coupled topology optimization for Conjugate Heat Transfer (CHT) cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
+            • Automated the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.</p>
           </div>
         </div>
       </div>
@@ -152,10 +152,10 @@ subtitle:
             <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
             <p>Tasks:<br>
             • Developed simulation-based NN model for evaluating cooling channel designs in additively manufactured (AM) components.<br>
-            • Run CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
+            • Ran CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
             • Evaluated vital parameters for several input configurations; heat transfer, head loss, structural integrity, etc.<br>
-            • Create a Graph Neural Networks (GNN) regression model to fit the simulation data.<br>
-            • Optimize the cooling channel design for the desired configuration.<br>
+            • Created a Graph Neural Networks (GNN) regression model to fit the simulation data.<br>
+            • Optimized the cooling channel design for the desired configuration.<br>
             • Reduced development time by eliminating tedious case setups and long simulation run times, benefiting industries reliant on heat conduction and convection.</p>
           </div>
         </div>
