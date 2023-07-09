@@ -57,9 +57,10 @@ subtitle:
           <div class="card-body col-mb-0">
             <div class="h4 mt-0 title h4 mb-0">About</div>
             <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of machine elements.<br>
-            - I have strong theoretical knowledge in structural, fluid and thermo-dynamics.<br> 
-            - I am an experienced backend developer for FEM/ CFD solvers using open-source software.<br>
-            - I focus to grow insights into Machine Learning and Artificial Intelligence models (CNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn. <a href="/aboutme/"><strong>More</strong></a></div>
+            - I have strong theoretical knowledge in structural, fluid- and thermo-dynamics.<br> 
+            - I am an experienced backend developer for FEM/ CFD solvers for open-source software.<br>
+            - I focus to grow insights into Machine Learning and Artificial Intelligence models (PINN, GNN, CNN, RNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn.<br> 
+            More in <a href="/aboutme/"><strong>About Me ...</strong></a></div>
           </div>
         </div>
         <div class="col-lg-10 col-md-12">
@@ -79,7 +80,7 @@ subtitle:
             </div>
             <div class="row mt-1">
               <div class="col-sm-2"><strong class="text-uppercase">LinkedIn:</strong></div>
-              <div class="col-sm-8"><a href="https://www.linkedin.com/in/sreekar07036910b/" target=_blank title="LinkedIn ref"> https://www.linkedin.com/in/sreekar07036910b/ </a></div>
+              <div class="col-sm-8"><a href="https://www.linkedin.com/in/sreekar2858/" target=_blank title="LinkedIn ref"> https://www.linkedin.com/in/sreekar2858/ </a></div>
             </div>
           </div>
         </div>
@@ -104,15 +105,15 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Internship [Voluntary]</strong></div>
             <p>Tasks:<br>
-            • Performed mechanical/ thermal benchmark simulations for CFRP parts according to ASTM D3039/D3039M and battery assembly in the storage unit using <strong>Optistruct</strong> and <strong>StarCCM+</strong>.<br>
-            • Performed modal simulations on battery pack level to analyze and improve the eigenfrequencies.<br>
-            • Performed explicit dynamics simulations using Radioss on the individual cell under compression and bending loads.<br>
+            • Performed mechanical/ thermal benchmark simulations for <strong>CFRP</strong> parts and battery pack using <strong>Optistruct and StarCCM+</strong>.<br>
+            • Performed modal simulations on the battery pack to analyze and improve the eigenfrequencies.<br>
+            • Performed explicit dynamics simulations using <strong>Radioss</strong> on the individual cell under compression and bending loads.<br>
             • Conducted mechanical simulations on battery pack under crash loads to examine stresses and strains using Optistruct.<br>
-            • Investigated thermal and thermo-mechanical strains and stresses due to Thermal loads using numerical simulation in StarCCM+ & Optistruct.<br>
-            • Realized fatigue and lifetime evaluations of <strong>CFRP</strong> and thermosetting plastics.<br>
+            • Investigated thermal and thermo-mechanical strains and stresses in case of <strong>thermal runaway (TR)</strong> for various configurations.<br>
+            • Realized fatigue and lifetime evaluations of CFRP and thermosetting plastics.<br>
             • Developed an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
-            • I was part of the Mechanical Integration team inside the Battery team and am involved in the day-to-day design evolution of the battery pack.<br>
-            • Familiarized with DO-160G and UN38.3.4</p>
+            • I was part of the Mechanical Integration team inside the Battery team and was involved in the day-to-day design evolution of the battery pack.<br>
+            • Familiarization with ASTM D3039/D3039M, DO-160G and UN38.3.4</p>
           </div>
         </div>
       </div>
@@ -130,9 +131,9 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
-            • Understood the theoretical implementation of adjoint-based topology optimization methods.<br>
+            • Understood the theoretical implementation of adjoint-based <strong>topology optimization</strong> methods.<br>
             • Investigated existing topology optimization techniques using continuous and discrete adjoint methods in open-source software.<br>
-            • Created a workflow to perform passively coupled topology optimization for Conjugate Heat Transfer (CHT) cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
+            • Created a workflow to perform passively coupled topology optimization for <strong>Conjugate Heat Transfer (CHT)</strong> cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
             • Automated the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.</p>
           </div>
         </div>
@@ -151,10 +152,10 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
             <p>Tasks:<br>
-            • Developed simulation-based NN model for evaluating cooling channel designs in additively manufactured (AM) components.<br>
-            • Ran CHT/ CFD simulations of cooling channels (Additive Manufacturing) using OpenFOAM.<br>
+            • Developed simulation-based NN model for evaluating <strong>cooling channel</strong> designs in Additively Manufactured (AM) components.<br>
+            • Ran CHT/ CFD simulations of cooling channels (<strong>Additive Manufacturing</strong>) using OpenFOAM.<br>
             • Evaluated vital parameters for several input configurations; heat transfer, head loss, structural integrity, etc.<br>
-            • Created a Graph Neural Networks (GNN) regression model to fit the simulation data.<br>
+            • Created a <strong>Graph Neural Networks (GNN)</strong> regression model to fit the simulation data.<br>
             • Optimized the cooling channel design for the desired configuration.<br>
             • Reduced development time by eliminating tedious case setups and long simulation run times, benefiting industries reliant on heat conduction and convection.</p>
           </div>
@@ -193,9 +194,9 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>Tasks:<br>
-            • Optimized/ cleaned-up MATLAB code to generate aerogel geometry.<br>
+            • Optimized/ cleaned-up <strong>MATLAB</strong> code to generate Aerogel geometry.<br>
             • Generated C++ code for better performance <br>
-            • Created input scripts for ABAQUS to run FEM simulation.</p>
+            • Created input scripts for <strong>ABAQUS</strong> to run FEM simulation.</p>
           </div>
         </div>
       </div>
@@ -252,9 +253,9 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Research Intern</strong></div>
             <p>Tasks:<br>
-            • Developed a custom C++ solver in OpenFOAM-v1712.<br>
+            • Developed a custom C++ solver in <strong>OpenFOAM</strong>-v1712.<br>
             • Investigated thermal, momentum, and phase-fraction evolution at different casting speeds to identify optimum for best casting quality.<br>
-            • Employed Ansys Mechanical APDL to study creep and displacement during casting process.</p>
+            • Employed Ansys <strong>Mechanical APDL</strong> to study creep and displacement during casting process.</p>
           </div>
         </div>
       </div>
@@ -272,7 +273,7 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Research Intern</strong></div>
             <p>Tasks:<br>
-            • Designed a mechanical fastener for a flight vehicle to withstand transient and random vibration forces.<br>
+            • Designed a mechanical fastener for a <strong>flight vehicle</strong> to withstand transient and random vibration forces.<br>
             • Streamlined designing process with a MATLAB program to create a fastener based on vital parameters.<br>
             • Conducted FEM simulation in Ansys to investigate stresses and normal forces acting on the flight vehicle frame.<br>
             • Validated results with experimental and analytical calculations.</p>
