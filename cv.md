@@ -56,7 +56,7 @@ subtitle:
         <div class="col-lg-12 col-md-0">
           <div class="card-body col-mb-0">
             <div class="h4 mt-0 title h4 mb-0">About</div>
-            <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of machine elements.<br>
+            <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of mechanical systems.<br>
             - I have strong theoretical knowledge in structural, fluid- and thermo-dynamics.<br> 
             - I am an experienced backend developer for FEM/ CFD solvers for open-source software.<br>
             - I focus to grow insights into Machine Learning and Artificial Intelligence models (PINN, GNN, CNN, RNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn.<br> 
@@ -109,7 +109,7 @@ subtitle:
             • Performed modal simulations on the battery pack to analyze and improve the eigenfrequencies.<br>
             • Performed explicit dynamics simulations using <strong>Radioss</strong> on the individual cell under compression and bending loads.<br>
             • Conducted mechanical simulations on battery pack under crash loads to examine stresses and strains using Optistruct.<br>
-            • Investigated thermal and thermo-mechanical strains and stresses in case of <strong>thermal runaway (TR)</strong> for various configurations.<br>
+            • Investigated thermal and thermo-mechanical strains and stresses in case of <strong>thermal runaway (TR)</strong>.<br>
             • Realized fatigue and lifetime evaluations of CFRP and thermosetting plastics.<br>
             • Developed an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
             • I was part of the Mechanical Integration team inside the Battery team and was involved in the day-to-day design evolution of the battery pack.<br>
