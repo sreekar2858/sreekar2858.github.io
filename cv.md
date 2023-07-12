@@ -107,7 +107,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Internship [Voluntary]</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Performed mechanical benchmark simulations for <strong>CFRP</strong> parts according to ASTM D3039/D3039M standards using Hypermesh's solver <strong>(Optistruct)</strong>.<br>
             • Conducted thermal benchmark simulations for battery pack using <strong>StarCCM+</strong>.<br>
             • Carried out modal analysis on the battery unit to analyze and improve the eigenfrequencies to EASA standards.<br>
@@ -134,7 +134,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Understood the theoretical implementation of adjoint-based (continuous and discrete) <strong>Topology Optimization</strong> methods.<br>
             • Investigated existing topology optimization techniques in open-source software.<br>
             • Developed a workflow to perform passively coupled topology optimization for <strong>Conjugate Heat Transfer (CHT)</strong> cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
@@ -155,7 +155,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong><a href="/2020-02-26-master-minithesis/">Mini-Thesis</a></strong></div>
-            <p>Tasks:<br>
+            <p>
             • Developed simulation-based NN model for evaluating <strong>cooling channel</strong> designs in Additively Manufactured (AM) components.<br>
             • Performed Conjugate Heat Transfer (CHT) simulations of cooling channels (<strong>Additive Manufacturing</strong>) using <strong>OpenFOAM</strong>.<br>
             • Evaluated vital parameters for several input configurations; heat transfer, head loss, structural integrity, etc.<br>
@@ -178,7 +178,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Successfully optimized <strong>VBA</strong> code by enhancing its efficiency and performance, resulting in improved productivity and reduced execution time.<br>
             • Developed a Python software using <strong>PyQt5</strong>, providing a user-friendly interface and facilitating a smooth transition from VBA to a more versatile platform.<br>
             • Demonstrated the ability to bridge VBA and Python, effectively translating VBA logic and functionality into <strong>Python</strong> while ensuring compatibility between the two technologies.<br>
@@ -201,7 +201,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Streamlined and optimized <strong>MATLAB</strong> code for generating Aerogel geometry, improving efficiency and code quality.<br>
             • Developed <strong>C++</strong> code, enhancing processing speed and overall performance.<br>
             • Created input scripts for <strong>ABAQUS</strong>, to run Finite Element Method (FEM) simulations.<br>
@@ -222,7 +222,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Provided IT and technical support, ensuring smooth operations and resolving any issues promptly.<br>
             • Diagnosed and resolved network connections in MacOS, maintaining uninterrupted connectivity.<br>
             • Installed and configured hardware and software, facilitating seamless operations.</p>
@@ -242,7 +242,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>CAE Engineer [Contractor]</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Successfully completed 18 research projects focused on Computer-Aided Design (CAD), Finite Element Method (FEM), Computational Fluid Dynamics (CFD), and Fluid-Structure Interaction (FSI).<br>
             • Utilized various software tools including Siemens NX, Ansys, ABAQUS, COMSOL, and MATLAB for designing and conducting simulations.<br>
             • Applied expertise in CAD software to develop precise and efficient designs, ensuring accuracy and functionality.<br>
@@ -263,7 +263,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Research Intern</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Understood the fundamentals of continuous and semi-continuous casting process and techniques to simulate using Finite Volume Method (FVM).<br>
             • Expanded knowledge of <strong>OpenFOAM</strong> and <strong>Paraview</strong> to simulate and visualize the casting process.<br>
             • Developed a custom C++ solver in <strong>OpenFOAM</strong>-v1712 tailored to the specific simulation requirements.<br>
@@ -287,7 +287,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Research Intern</strong></div>
-            <p>Tasks:<br>
+            <p>
             • Designed a mechanical fastener for a <strong>flight vehicle</strong> to withstand transient and random vibration forces.<br>
             • Streamlined designing process with a <strong>MATLAB</strong> program to create a fastener based on vital parameters.<br>
             • Conducted <strong>FEM</strong> simulation in <strong>Ansys</strong> to investigate stresses and normal forces acting on the flight vehicle frame.<br>
@@ -596,6 +596,13 @@ subtitle:
                       <p style="text-align:center">Bachelors Course Project</p>
                     </figcaption>
                   </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2023-07-12-cfd-FIS">
+                  <figure class="cc-effect"><img src="/assets/img/projects/FIS_01_CG_convergance.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Fast Iterative Solvers - Python</div>
+                      <p style="text-align:center">Masters Project</p>
+                    </figcaption>
+                  </figure></a></div>
             </div>
             <div class="col-md-6">
               <!-- <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-08-04-fem_inc_form"> -->
@@ -626,6 +633,13 @@ subtitle:
                     <figcaption>
                       <div class="h4">Dendridic Growth of AlZn alloy - Micress</div>
                       <p style="text-align:center">Bachelors Project</p>
+                    </figcaption>
+                  </figure></a></div>
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="/2022-07-24-fem_PCCM">
+                  <figure class="cc-effect"><img src="/assets/img/projects/PCCM_Project_MPI.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Parallel Computing - C++</div>
+                      <p style="text-align:center">Masters Project</p>
                     </figcaption>
                   </figure></a></div>
             </div>
