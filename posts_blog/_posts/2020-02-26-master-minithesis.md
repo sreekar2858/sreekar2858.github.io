@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Development of an intelligent simulation-based model for design evaluation of cooling channels for L-PBF
+title: Development of a Simulation-Based Artificial Neural Network Model for Design Evaluation of Additively Manufactured Cooling Channel Structures
 subtitle: Masters - Mini-Thesis
 cover-img: /assets/img/cfd/minithesis_bg.png
 thumbnail-img: /assets/img/cfd/minithesis_tuning.png
@@ -24,7 +24,8 @@ Validation accuracy and loss are used to evaluate if the NN model is over or und
 This way the tedious case setups and simulation run times can be eliminated in the development cycle of cooling channels.<br>
 </p>
 
-<h4>Methodology:</h4><br>
+<h4>Methodology:</h4>
 This thesis presents a comprehensive study of the heat transfer in a cooling channel and proposes the use of GNN to predict temperature and flow characteristics. The study begins with the creation of parametric geometry that includes four cross-sections each with three density ratios as mentioned in Figure 4-1. A validation study is performed against experimental results to configure the OpenFOAM case setup using chtMultiRegionSimpleFoam solver. CHT simulations were performed on all the geometric configurations at several Reynolds Numbers in the turbulent flow regime.<br>
 Results from the CHT simulations were used to create a simulation dataset. A GNN model is created using the PyTorch library and is trained on the dataset after preprocessing it. Finally, a validation study is conducted on unseen input parameters and novel geometry.<br>
-<img src="/assets/img/mini_thesis_workflow.jpg" alt="Methodology" width="100%">
+<center><img src="/assets/img/mini_thesis_workflow.jpg" alt="Methodology" width="50%"></center>
+<center><small>Overview of the methodology used in this thesis.</small></center><br>

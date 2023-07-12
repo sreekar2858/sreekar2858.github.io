@@ -82,6 +82,9 @@ subtitle:
               <div class="col-sm-2"><strong class="text-uppercase">LinkedIn:</strong></div>
               <div class="col-sm-8"><a href="https://www.linkedin.com/in/sreekar2858/" target=_blank title="LinkedIn ref"> https://www.linkedin.com/in/sreekar2858/ </a></div>
             </div>
+            <p><br>
+            Download the pdf version of this CV <a href="/assets/pdf/SreekarReddy_CV_En_small.pdf" target=_blank title="CV pdf"> here. </a>
+            </p>
           </div>
         </div>
       </div>
