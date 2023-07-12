@@ -29,3 +29,6 @@ This thesis presents a comprehensive study of the heat transfer in a cooling cha
 Results from the CHT simulations were used to create a simulation dataset. A GNN model is created using the PyTorch library and is trained on the dataset after preprocessing it. Finally, a validation study is conducted on unseen input parameters and novel geometry.<br>
 <center><img src="/assets/img/mini_thesis_workflow.jpg" alt="Methodology" width="50%"></center>
 <center><small>Overview of the methodology used in this thesis.</small></center><br>
+
+Dataset Creation:
+<center><img src="/assets/img/mini_thesis_workflow_datasetCreation.jpg" alt="Methodology" width="60%"></center>
