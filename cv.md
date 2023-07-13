@@ -106,7 +106,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong>Internship [Voluntary]</strong></div>
+            <div class="h5"><strong>Internship - Thermal/ Thermo-mechanical Analysis for Energy Storage Unit [Voluntary]</strong></div>
             <p>
             • Performed mechanical benchmark simulations for <strong>CFRP</strong> parts according to ASTM D3039/D3039M standards using Hypermesh's solver <strong>(Optistruct)</strong>.<br>
             • Conducted thermal benchmark simulations for battery pack using <strong>StarCCM+</strong>.<br>
@@ -202,7 +202,7 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
             <p>
-            • Streamlined and optimized <strong>MATLAB</strong> code for generating Aerogel geometry, improving efficiency and code quality.<br>
+            • Streamlined and optimized <strong>MATLAB</strong> code for generating Aerogel geometry using Diffusion-Limited Cluster-Cluster Aggregation (DLCA), improving efficiency and code quality.<br>
             • Developed <strong>C++</strong> code, enhancing processing speed and overall performance.<br>
             • Created input scripts for <strong>ABAQUS</strong>, to run Finite Element Method (FEM) simulations.<br>
             • Demonstrated expertise in MATLAB optimization techniques and C++ programming for better computational efficiency.</p>
