@@ -59,7 +59,7 @@ subtitle:
             <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of mechanical systems.<br>
             - I have strong theoretical knowledge in structural, fluid- and thermo-dynamics.<br> 
             - I am an experienced backend developer for FEM/ CFD solvers for open-source software.<br>
-            - I focus to grow insights into Machine Learning and Artificial Intelligence models (PINN, GNN, CNN, RNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn.<br>
+            - My focus recently has been to grow insights into Machine Learning and Artificial Intelligence models (PINN, GNN, CNN, RNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn.<br>
             More in <a href="/aboutme/"><u>About Me ...</u></a></div>
           </div>
         </div>
@@ -83,7 +83,7 @@ subtitle:
               <div class="col-sm-8"><a href="https://www.linkedin.com/in/sreekar2858/" target=_blank title="LinkedIn ref"> https://www.linkedin.com/in/sreekar2858/ </a></div>
             </div>
             <p><br>
-            Download the pdf version of this CV <a href="/assets/pdf/SreekarReddy_CV_En_small.pdf" target=_blank title="CV pdf"> <u>here</u>. </a>
+            PDF version of this CV is available <a href="/assets/pdf/SreekarReddy_CV_En_small.pdf" target=_blank title="CV pdf"> <u>here</u>. </a>
             </p>
           </div>
         </div>
