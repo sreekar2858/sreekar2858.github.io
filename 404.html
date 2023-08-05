@@ -3,12 +3,39 @@ layout: default
 title: 404 - Page not found
 permalink: /404.html
 ---
+<h2 style="text-align:center; font-size:30px">OOPS! The page you are looking for is toast.</h2>   
 
-<div class="text-center">
-  <br/>
-  <br/>
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>404 Error</title>
+  <link rel='stylesheet' href='https://rawcdn.githack.com/SochavaAG/example-mycode/master/_common/css/reset.css'><link rel="stylesheet" href="/assets/css/404.css">
 
-  <h2>Well, This is awkward.</h2>
-  
-  <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" alt="Not found" />
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="ag-page-404">
+  <div class="ag-toaster-wrap">
+    <div class="ag-toaster">
+      <div class="ag-toaster_back"></div>
+      <div class="ag-toaster_front">
+        <div class="js-toaster_lever ag-toaster_lever"></div>
+      </div>
+      <div class="ag-toaster_toast-handler">
+        <!-- <div class="ag-toaster_shadow"></div> -->
+        <div class="js-toaster_toast ag-toaster_toast js-ag-hide"></div>
+      </div>
+    </div>
+
+    <canvas id="canvas-404" class="ag-canvas-404"></canvas>
+    <img class="ag-canvas-404_img" src="https://raw.githubusercontent.com/SochavaAG/example-mycode/master/pens/404-error-smoke-from-toaster/images/smoke.png">
+  </div>
 </div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script><script  src="/assets/js/404.js"></script>
+
+</body>
+</html>
+<br>
+<br>

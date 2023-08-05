@@ -1,0 +1,66 @@
+---
+layout: base
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("assets/img/Landing_page.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+
+<div class="bg">
+  {% include header.html type="page" %}
+
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
+  <div class="row">
+    <!-- <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}"> -->
+    <div class="{% if page.full-width %} col {% else %} col-sm-auto {% endif %}">
+      {% if page.before-content %}
+        <div class="before-content">
+          {% for file in page.before-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% include comments.html %}
+    </div>
+  </div>
+</div>
+
+</div>
+
+</body>
+
+  
+  </html>
