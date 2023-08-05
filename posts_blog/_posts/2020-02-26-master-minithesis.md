@@ -32,3 +32,7 @@ Results from the CHT simulations were used to create a simulation dataset. A GNN
 
 Dataset Creation:
 <center><img src="/assets/img/mini_thesis_workflow_datasetCreation.jpg" alt="Methodology" width="60%"></center>
+
+<br>
+<br>
+<br>
