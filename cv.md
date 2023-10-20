@@ -100,6 +100,28 @@ subtitle:
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
+            <div class="h5"> Siemens Energy - Mülheim, Germany</div>
+            <p style="text-align:center">Oct 2023 - Present</p>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5"><strong>Internship</strong></div>
+            <p><br>
+                • Familiarize with Siemens Energy toolchain.<br>
+                • Familiarize with the generative design method.<br>
+                • Introduce the self-learning algorithm in the design toolchain.<br>
+                • Apply the toolchain to the H2 combustion system development.<br>
+                • Summarize the gained knowledge in a Master Thesis.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
             <div class="h5"> Digital Additive Production, RWTH</div>
             <p style="text-align:center">Feb 2023 - Present</p>
           </div>
