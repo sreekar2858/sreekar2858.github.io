@@ -108,11 +108,12 @@ subtitle:
           <div class="card-body">
             <div class="h5"><strong>Internship</strong></div>
             <p><br>
+                Topic: <strong>CFD Analysis of H2 Combustion Gas Turbines and building Generative Design Toolchain using Invertible Neural Networks.</strong><br>
                 • Familiarize with Siemens Energy toolchain.<br>
-                • Familiarize with the generative design method.<br>
-                • Introduce the self-learning algorithm in the design toolchain.<br>
+                • Familiarize with the generative design method and workflows.<br>
+                • Introduce the self-learning algorithm in to the design toolchain.<br>
                 • Apply the toolchain to the H2 combustion system development.<br>
-                • Summarize the gained knowledge in a Master Thesis.</p>
+                • Summarize and extend the gained knowledge for a Master Thesis.</p>
           </div>
         </div>
       </div>
@@ -149,7 +150,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong>Internship - Thermal/ Thermo-mechanical Analysis for Energy Storage Unit [Voluntary]</strong></div>
+            <div class="h5"><strong>Voluntary Internship - Thermal/ Thermo-mechanical Analysis for Energy Storage Unit</strong></div>
             <p><br>
             • Performed mechanical benchmark simulations for <strong>CFRP</strong> parts according to ASTM D3039/D3039M standards using Hypermesh's solver <strong>(Optistruct)</strong>.<br>
             • Conducted thermal benchmark simulations for battery pack using <strong>StarCCM+</strong>.<br>
