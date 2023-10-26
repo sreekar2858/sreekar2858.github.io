@@ -109,11 +109,17 @@ subtitle:
             <div class="h5"><strong>Internship</strong></div>
             <p><br>
                 Topic: <strong>CFD Analysis of H2 Combustion Gas Turbines and building Generative Design Toolchain using Invertible Neural Networks.</strong><br>
-                • Familiarize with Siemens Energy toolchain.<br>
+                • Acquire in-depth proficiency in using Siemens Energy's advanced toolchain, gaining insights into its functionalities and capabilities.<br>
+                • Explore generative design methodologies and workflows, implementing various design possibilities and optimizing engineering solutions.<br>
+                • Integrate self-learning algorithms, specifically Invertible Neural Networks, into the design toolchain, enhancing its efficiency and adaptability.<br>
+                • Apply the developed toolchain to the practical scenario of H2 combustion system development, refining it based on real-time feedback and challenges faced.<br>
+                • Summarize and extend the gained knowledge, synthesizing experiences and understanding theoretical foundations for future research endeavors.<br>
+                <!-- • Familiarize with Siemens Energy toolchain.<br>
                 • Familiarize with the generative design method and workflows.<br>
                 • Introduce the self-learning algorithm in to the design toolchain.<br>
                 • Apply the toolchain to the H2 combustion system development.<br>
-                • Summarize and extend the gained knowledge for a Master Thesis.</p>
+                • Summarize and extend the gained knowledge for a Master Thesis. -->
+              </p>
           </div>
         </div>
       </div>
@@ -134,7 +140,8 @@ subtitle:
             • Understood the theoretical implementation of adjoint-based (continuous and discrete) <strong>Topology Optimization</strong> methods.<br>
             • Investigated existing topology optimization techniques in open-source software.<br>
             • Developed a workflow to perform passively coupled topology optimization for <strong>Conjugate Heat Transfer (CHT)</strong> cases using <strong><a href="https://dafoam.github.io/" target=_blank title="DAFoam ref"> DAFoam </a></strong>.<br>
-            • Automated the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.</p>
+            • Automated the geometry preperation, meshing, running design iterations, and coupling in a cycle using Python.
+            </p>
           </div>
         </div>
       </div>
@@ -151,7 +158,8 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Voluntary Internship - Thermal/ Thermo-mechanical Analysis for Energy Storage Unit</strong></div>
-            <p><br>
+            <p>
+            <a href= "/assets/pdf/Volocopter_Red.pdf" target=_blank title="Reference Letter">Reference Letter: Download here</a><br>
             • Performed mechanical benchmark simulations for <strong>CFRP</strong> parts according to ASTM D3039/D3039M standards using Hypermesh's solver <strong>(Optistruct)</strong>.<br>
             • Conducted thermal benchmark simulations for battery pack using <strong>StarCCM+</strong>.<br>
             • Carried out modal analysis on the battery unit to analyze and improve the eigenfrequencies to EASA standards.<br>
@@ -445,7 +453,7 @@ subtitle:
 
 <div class="section" id="skill">
   <div class="container">
-    <div class="h4 text-center mb-4 title">Professional Skills</div>
+    <div class="h4 text-center mb-4 title"><a href = "/assets/excel/Skill_Evaluation.xlsx" target=_blank title="Professional Skills">Professional Skills</a></div>
     <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
       <div class="card-body">
         <div class="row">
