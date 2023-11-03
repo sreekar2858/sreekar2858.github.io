@@ -158,8 +158,7 @@ subtitle:
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5"><strong>Voluntary Internship - Thermal/ Thermo-mechanical Analysis for Energy Storage Unit</strong></div>
-            <p>
-            <a href= "/assets/pdf/Volocopter_Red.pdf" target=_blank title="Reference Letter">Reference Letter: Download here</a><br>
+            <p><br>
             • Performed mechanical benchmark simulations for <strong>CFRP</strong> parts according to ASTM D3039/D3039M standards using Hypermesh's solver <strong>(Optistruct)</strong>.<br>
             • Conducted thermal benchmark simulations for battery pack using <strong>StarCCM+</strong>.<br>
             • Carried out modal analysis on the battery unit to analyze and improve the eigenfrequencies to EASA standards.<br>
@@ -169,7 +168,9 @@ subtitle:
             • Realized fatigue and lifetime evaluations of CFRP and thermosetting plastics.<br>
             • Developed an overall understanding and strategy to mitigate thermal strains due to temperature gradients.<br>
             • I was part of the Mechanical Integration team inside the Battery team and was involved in the day-to-day design evolution of the battery pack.<br>
-            • Familiarization with DO-160G and UN38.3.4</p>
+            • Familiarization with DO-160G and UN38.3.4<br><br>
+            <a href= "/assets/pdf/Volocopter_Red.pdf" target=_blank title="Reference Letter">Reference Letter: Download here</a>
+            </p>
           </div>
         </div>
       </div>
