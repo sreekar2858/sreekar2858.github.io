@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Curriculum Vitae
+# title: Curriculum Vitae
 subtitle:
 ---
 
 <style type="text/css">
         .h2_c {
-            font-size: 26pt;
+            font-size: 32pt;
             padding: 10px;
+            font-weight: 600;
             text-align: right;
         }
     </style>
@@ -49,6 +50,7 @@ subtitle:
     </div>
   </div>
 </div>
+<br><br>
 <div class="section" id="about">
   <div class="container">
     <div class="card" data-aos="fade-up" data-aos-offset="10">
