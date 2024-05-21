@@ -108,19 +108,13 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong>Internship</strong></div>
+            <div class="h5"><strong>Internship + Master Thesis</strong></div>
             <p><br>
-                Topic: <strong>CFD Analysis of H2 Combustion Gas Turbines and building Generative Design Toolchain using Invertible Neural Networks.</strong><br>
-                • Acquire in-depth proficiency in using Siemens Energy's advanced toolchain, gaining insights into its functionalities and capabilities.<br>
+                Topic: <strong>CFD Analysis of H2 Combustion Gas Turbines and building Generative Design Toolchain.</strong><br>
+                • Acquire in-depth proficiency in using Siemens Energy’s advanced toolchain for combustion simulations and automation; gaining insights into its functionalities.<br>
                 • Explore generative design methodologies and workflows, implementing various design possibilities and optimizing engineering solutions.<br>
-                • Integrate self-learning algorithms, specifically Invertible Neural Networks, into the design toolchain, enhancing its efficiency and adaptability.<br>
-                • Apply the developed toolchain to the practical scenario of H2 combustion system development, refining it based on real-time feedback and challenges faced.<br>
-                • Summarize and extend the gained knowledge, synthesizing experiences and understanding theoretical foundations for future research endeavors.<br>
-                <!-- • Familiarize with Siemens Energy toolchain.<br>
-                • Familiarize with the generative design method and workflows.<br>
-                • Introduce the self-learning algorithm in to the design toolchain.<br>
-                • Apply the toolchain to the H2 combustion system development.<br>
-                • Summarize and extend the gained knowledge for a Master Thesis. -->
+                • Integrate self-learning algorithms into the design toolchain, enhancing its efficiency and adaptability.<br>
+                • Apply the developed toolchain to the practical scenario of H2 combustion gas turbine to minimize boundary layer flashback.<br>
               </p>
           </div>
         </div>

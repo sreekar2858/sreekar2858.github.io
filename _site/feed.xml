@@ -17,7 +17,7 @@
           
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract This project focuses on implementation of two iterative solvers, Generalized Minimal Residual (GMRES) and Conjugate Gradient (CG), for solving sparse linear...
         </description>
-        <pubDate>Wed, 12 Jul 2023 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 12 Jul 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2023-07-12-cfd-FIS/</link>
         <guid isPermaLink="true">http://localhost:4000/2023-07-12-cfd-FIS/</guid>
       </item>
@@ -28,7 +28,7 @@
           Bachelor&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Introduction: Metallic implants are commonly used in the orthopedic field. Despite the large number of metallic medical devices in use today, they...
         </description>
-        <pubDate>Fri, 05 Aug 2022 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 05 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-05-fem_knee_prosthetic/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-08-05-fem_knee_prosthetic/</guid>
       </item>
@@ -39,7 +39,7 @@
           Bachelor&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract: The objective of this work is to develop a method to simulate the biomechanics of the lumbar spine. A process is...
         </description>
-        <pubDate>Thu, 04 Aug 2022 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-04-fem_lumbar/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-08-04-fem_lumbar/</guid>
       </item>
@@ -50,7 +50,7 @@
           Bachelor&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Introduction Unlike one-step simulation, in which only the final part shape is solved, incremental forming simulation allows the accurate modeling of sheet...
         </description>
-        <pubDate>Thu, 04 Aug 2022 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-04-fem_inc_form/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-08-04-fem_inc_form/</guid>
       </item>
@@ -61,7 +61,7 @@
           Master&apos;s Project - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract The project&apos;s major goal is to comprehend and see the trends in speed and efficiency of a serial code when it...
         </description>
-        <pubDate>Sun, 24 Jul 2022 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 24 Jul 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-07-24-fem_PCCM/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-07-24-fem_PCCM/</guid>
       </item>
@@ -72,7 +72,7 @@
           Masters course project - 
           Abstract: Localization of an impact on an aircraft nosecone is vital to assess the risk of damage. Collecting sensor data from the impact zone and passing it through an Artificial Intelligence (AI) has a better chance of predicting the impact location. This study trains various AI models on computer simulation...
         </description>
-        <pubDate>Fri, 01 Apr 2022 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-04-01-ai_impact/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-04-01-ai_impact/</guid>
       </item>
@@ -92,7 +92,7 @@ Introduction
 
 
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-26-cfd-mcdc/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-26-cfd-mcdc/</guid>
       </item>
@@ -103,7 +103,7 @@ Introduction
           Masters - Mini-Thesis - 
           Note Hello, this webpage is still under development. The content is not yet worked on/ finalized and the links are not yet working. Please check back later. Thanks! Abstract: This research presents an approach in developing a simulation-based artificial neural network (NN) model for the design evaluation of cooling channel...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-26-master-minithesis/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-26-master-minithesis/</guid>
       </item>
@@ -114,7 +114,7 @@ Introduction
           Each post also has a subtitle - 
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
         </description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-20-master-molmec/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-molmec/</guid>
       </item>
@@ -125,7 +125,7 @@ Introduction
           Each post also has a subtitle - 
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
         </description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-20-master-cie/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-cie/</guid>
       </item>
@@ -136,7 +136,7 @@ Introduction
           Each post also has a subtitle - 
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
         </description>
-        <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2020-02-20-master-annsm/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-02-20-master-annsm/</guid>
       </item>
@@ -156,7 +156,7 @@ Introduction
 
 
         </description>
-        <pubDate>Thu, 20 Jun 2019 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 20 Jun 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2019-06-20-cfd-macroseg/</link>
         <guid isPermaLink="true">http://localhost:4000/2019-06-20-cfd-macroseg/</guid>
       </item>
@@ -176,7 +176,7 @@ Introduction
 
 
         </description>
-        <pubDate>Fri, 10 May 2019 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2019-05-10-cfd-dendr_AlZn/</link>
         <guid isPermaLink="true">http://localhost:4000/2019-05-10-cfd-dendr_AlZn/</guid>
       </item>
