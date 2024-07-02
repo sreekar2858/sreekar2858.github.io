@@ -73,6 +73,7 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2023.3)
       tzinfo (>= 1.0.0)
+    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -84,6 +85,7 @@ DEPENDENCIES
   rake (~> 12.0)
   tzinfo (= 1.2.1)
   tzinfo-data
+  wdm (>= 0.1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
