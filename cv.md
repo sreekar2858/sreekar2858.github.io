@@ -6,10 +6,25 @@ subtitle:
 
 <style type="text/css">
         .h2_c {
-            font-size: 32pt;
-            padding: 10px;
-            font-weight: 600;
-            text-align: right;
+          font-size: 32pt;
+          padding: 10px;
+          font-weight: 600;
+          text-align: right;
+        }
+        .row-gap {
+          margin-bottom: 20px; /* Gap between rows */
+        }
+
+        .text-left {
+          text-align: left;
+        }
+
+        .large-text {
+          font-size: 1.2em; /* Increase font size */
+        }
+
+        .col-md-3 img {
+          margin-bottom: 10px; /* Add spacing below images */
         }
     </style>
 
@@ -59,9 +74,10 @@ subtitle:
           <div class="card-body col-mb-0">
             <div class="h4 mt-0 title h4 mb-0">About</div>
             <div class="p mt-0 mb-0"> Hello! I am Sreekar, a Computational Mechanical Engineer with thorough hands-on experience in several stratums of modelling, development, and manufacturing of mechanical systems.<br>
-            - I have strong theoretical knowledge in structural, fluid- and thermo-dynamics.<br> 
-            - I am an experienced backend developer for FEM/ CFD solvers for open-source software.<br>
-            - My focus recently has been to grow insights into Machine Learning and Artificial Intelligence models (PINN, GNN, CNN, RNN, ResNet, etc.) using TensorFlow 2.0, Keras, and Sci-kit learn.<br>
+            - I possess a solid foundation in structural mechanics, fluid dynamics, and thermodynamics, combining theoretical expertise with practical applications.<br> 
+            - As a seasoned backend developer, I specialize in FEM and CFD solvers, with a strong track record of extending OpenFOAM-ESI functionality. My work includes integrating topology optimization with advanced neural network capabilities, bridging simulation and machine learning for innovative solutions.<br>
+            - I have developed expertise in Machine Learning and Artificial Intelligence models, including PINN, GNN, CNN, RNN, and ResNet, leveraging tools such as TensorFlow and PyTorch to deliver cutting-edge solutions.<br>
+            - My skillset extends to MLOps (Docker, Singularity, TensorFlow Serving, and MLflow), cloud platforms like Azure, and specialized applications in NLP (spaCy, Transformers) and Computer Vision (OpenCV, YOLO).<br>
             More in <a href="/aboutme/"><u>About Me ...</u></a></div>
           </div>
         </div>
@@ -85,7 +101,7 @@ subtitle:
               <div class="col-sm-8"><a href="https://www.linkedin.com/in/sreekar2858/" target=_blank title="LinkedIn ref"> https://www.linkedin.com/in/sreekar2858/ </a></div>
             </div>
             <p><br>
-             PDF version of this CV -> <a href="/assets/pdf/SreekarReddy_CV_En_small.pdf" target=_blank title="CV pdf"><img src="/assets/img/pdf_icon.png" style="width:40px;height:40px;"></a> 
+             PDF version of this CV -> <a href="/assets/pdf/SreekarReddy_CV_En_1pager.pdf" target=_blank title="CV pdf"><img src="/assets/img/pdf_icon.png" style="width:40px;height:40px;"></a> 
             </p>
           </div>
         </div>
@@ -126,7 +142,7 @@ subtitle:
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
             <div class="h5"> Digital Additive Production, RWTH</div>
-            <p style="text-align:center">Feb 2023 - Present</p>
+            <p style="text-align:center">Feb 2023 - Dec 2024</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -334,7 +350,7 @@ subtitle:
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
             <div class="h5">Masters of Science</div>
-            <p style="text-align:center">2020 - Present</p>
+            <p style="text-align:center">2020 - 2025</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -450,122 +466,151 @@ subtitle:
 
 <div class="section" id="skill">
   <div class="container">
-    <div class="h4 text-center mb-4 title"><a href = "/assets/excel/Skill_Evaluation.xlsx" target=_blank title="Professional Skills">Professional Skills</a></div>
+    <div class="h4 text-center mb-4 title">Professional Skills</div>
     <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
       <div class="card-body">
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge"><a href="https://www.ansys.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/570px-Ansys_logo_%282019%29.svg.png?20210507100321" style="width:71.25px;height:22px;"></a></span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div><span class="progress-value">85</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge"><strong><a href="https://www.3ds.com/products-services/simulia/products/abaqus/"><img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Abaqus_icon.png?20100722080630" style="width:22px;height:22px;">  ABAQUS</a></strong></span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
               </div>
             </div>
+          </div>
+        </div> -->
+        <p style="text-align:center; font-size:130%; font-family:verdana"><i>Computer-Aided Engineering (CAE)</i></p>
+        <div class="row row-gap">
+          <div class="col-md-3 text-left">
+            <a href="https://www.ansys.com/" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/570px-Ansys_logo_%282019%29.svg.png?20210507100321" style="height:25px;" alt="Ansys Logo">
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Abaqus_icon.png?20100722080630" style="height:25px;" alt="ABAQUS Icon">
+              <strong>ABAQUS</strong>
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/" class="large-text">
+              <img src="/assets/img/starccm+_logo.jpeg" style="height:25px;" alt="Starccm+ Icon">
+              <strong>Star-CCM+</strong>
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.mathworks.com/products/matlab.html" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" style="height:25px;" alt="MATLAB Icon">
+              <strong>MATLAB</strong>
+            </a>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><a href="https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/"><img src="/assets/img/starccm+_logo.jpeg" style="width:105px;height:25px;" alt="logo"></a></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75</span>
-              </div>
-            </div>
+        <div class="row row-gap">
+          <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="/assets/img/optistruct-logo.png" style="height:25px;" alt=" Logo">
+              <strong>Optistruct</strong>
+            </a>
           </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong><a href="https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" style="width:30px;height:25px;" alt="logo"> MATLAB</a></strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70</span>
-              </div>
-            </div>
+          <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="/assets/img/radioss-logo.png" style="height:25px;" alt=" Logo">
+              <strong>Radioss</strong>
+            </a>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><a href="https://www.comsol.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Comsol_logo.svg/600px-Comsol_logo.svg.png?20190603190529" style="width:100px;height:12.5px;" alt="logo"></a></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75</span>
-              </div>
-            </div>
+          <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <strong>LS-Dyna</strong>
+            </a>
           </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><a href="https://openfoam.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/OpenFOAM_logo.svg/1920px-OpenFOAM_logo.svg.png" style="width:110px;height:37.5px;" alt="logo"></a></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70</span>
-              </div>
-            </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.comsol.com/" class="large-text">
+              <img src="/assets/img/comsol.png" style="height:25px;" alt="COMSOL Logo">
+              <strong>COMSOL</strong>
+            </a>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong><a href="https://www.beta-cae.com/ansa.htm"><img src="/assets/img/Ansa_logo.png" style="width:25px;height:27.5px;" alt="logo"> ANSA</a></strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div><span class="progress-value">65</span>
-              </div>
-            </div>
           </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong><a href="https://www.dealii.org/"><img src="/assets/img/dealii_logo.png" style="width:30px;height:30px;" alt="logo"> Deal.ii</a></strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70</span>
-              </div>
-            </div>
+        <div class="row row-gap">
+          <div class="col-md-3 text-left">
+            <a href="https://openfoam.com" class="large-text">
+              <img src="/assets/img/openfoam-logo.png" style="height:25px;" alt="OpenFOAM Icon">
+              <strong>OpenFOAM</strong>
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.beta-cae.com/ansa.htm" class="large-text">
+              <img src="/assets/img/Ansa_logo.png" style="height:25px;" alt="ANSA Icon">
+              <strong>ANSA</strong>
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.dealii.org/" class="large-text">
+              <img src="/assets/img/dealii_logo.png" style="height:25px;" alt="Deal.ii Icon">
+              <strong>Deal.ii</strong>
+            </a>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong><a href="https://plm.sw.siemens.com/en-US/nx/"><img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png?20200508180525" style="width:30px;height:30px;" alt="logo"> Siemens NX</a></strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div><span class="progress-value">95</span>
-              </div>
-            </div>
+        <p style="text-align:center; font-size:130%; font-family:verdana"><i>Computer-Aided Design (CAD)</i></p>
+        <div class="row row-gap">
+          <div class="col-md-3 text-left">
+            <a href="https://plm.sw.siemens.com/en-US/nx/" class="large-text">
+              <img src="/assets/img/Siemens_NX.svg" style="height:25px;" alt="Siemens NX Logo">
+              <strong>Siemens NX</strong>
+            </a>
           </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong><a href="https://www.ptc.com/de/products/creo/pro-engineer"><img src="/assets/img/creo_logo.jpg" style="width:35px;height:35px;" alt="logo"> Pro-E</a></strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80</span>
-              </div>
-            </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.ptc.com/de/products/creo/pro-engineer" class="large-text">
+              <img src="/assets/img/creo_logo.jpg" style="height:25px;" alt="Pro-E Icon">
+              <strong>PTC Creo</strong>
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="https://www.solidworks.com/" class="large-text">
+              <img src="/assets/img/sw-logo.svg" style="height:25px;" alt="Icon">
+              <strong>Solidworks</strong>
+            </a>
+          </div>
+          <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="/assets/img/rhino-logo.png" style="height:25px;" alt="Icon">
+              <strong>Rhinoceros</strong>
+            </a>
           </div>
         </div>
         <!--  -->
-        <p style="text-align:center; font-size:130%; font-family:verdana"><strong>Programming Skills</strong></p>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong>C/ C++</strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div><span class="progress-value">85</span>
-              </div>
-            </div>
+        <p style="text-align:center; font-size:130%; font-family:verdana"><i>Programming Skills</i></p>
+        <div class="row row-gap">
+          <div class="col-md-3 text-left">
+            <strong>Python</strong>
           </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong>Python</strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div><span class="progress-value">90</span>
-              </div>
-            </div>
+          <div class="col-md-3 text-left">
+            <strong>C/C++</strong>
+          </div>
+          <div class="col-md-3 text-left">
+            <strong>JAVA</strong>
+          </div>
+          <div class="col-md-3 text-left">
+            <strong>Julia</strong>
           </div>
         </div>
-        <!--  -->
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong>Java</strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80</span>
-              </div>
-            </div>
+        <div class="row row-gap">
+          <div class="col-md-3 text-left">
+            <strong>Git</strong>
           </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge"><strong>Git</strong></span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div><span class="progress-value">95</span>
-              </div>
-            </div>
+          <div class="col-md-3 text-left">
+            <strong>Bash</strong>
+          </div>
+          <div class="col-md-3 text-left">
+            <strong>Go</strong>
+          </div>
+          <div class="col-md-3 text-left">
+            <strong>HTML</strong>
           </div>
         </div>
         <!--  -->
