@@ -587,30 +587,54 @@ subtitle:
         <p style="text-align:center; font-size:130%; font-family:verdana"><i>Programming Skills</i></p>
         <div class="row row-gap">
           <div class="col-md-3 text-left">
-            <strong>Python</strong>
+            <a href="" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/729px-Python_logo_and_wordmark.svg.png" style="height:25px;" alt="Icon">
+              <strong></strong>
+            </a>
           </div>
           <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" style="height:25px;" alt="Icon">
             <strong>C/C++</strong>
+            </a>
           </div>
           <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/364px-Java-Logo.svg.png?20061221200047" style="height:25px;" alt="Icon">
             <strong>JAVA</strong>
+            </a>
           </div>
           <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" style="height:25px;" alt="Icon">
             <strong>Julia</strong>
+            </a>
           </div>
         </div>
         <div class="row row-gap">
           <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="height:25px;" alt="Icon">
             <strong>Git</strong>
+            </a>
           </div>
           <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/768px-Bash_Logo_black_and_white_icon_only.svg.png" style="height:25px;" alt="Icon">
             <strong>Bash</strong>
+            </a>
           </div>
           <div class="col-md-3 text-left">
-            <strong>Go</strong>
+            <a href="" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png" style="height:25px;" alt="Icon">
+            <strong></strong>
+            </a>
           </div>
           <div class="col-md-3 text-left">
+            <a href="" class="large-text">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" style="height:25px;" alt="Icon">
             <strong>HTML</strong>
+            </a>
           </div>
         </div>
         <!--  -->
